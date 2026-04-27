@@ -2,57 +2,28 @@
   "plants": [
     {
       "id": "apple_granny_smith",
-      "name": "Apple",
-      "cultivar": "Granny Smith",
-      "background": "bg_1",
-      "feature": "apple",
-      "feature_tint": "#00DD00",
-      "functions": [],
-      "layers": []
+      "speciesId": "apple",
+      "cultivarId": "granny_smith"
     },
     {
       "id": "apple_fuji",
-      "name": "Apple",
-      "cultivar": "Fuji",
-      "background": "bg_1",
-      "feature": "apple",
-      "feature_tint": null,
-      "functions": [],
-      "layers": []
+      "speciesId": "apple",
+      "cultivarId": "fuji"
     },
     {
       "id": "banana_cavendish",
-      "name": "Banana",
-      "cultivar": "Cavendish",
-      "background": "bg_2",
-      "feature": "banana",
-      "feature_tint": null,
-      "functions": [],
-      "layers": []
+      "speciesId": "banana",
+      "cultivarId": "cavendish"
     },
     {
       "id": "haskap",
-      "name": "Haskap",
-      "cultivar": "Haskap",
-      "background": "bg_3",
-      "feature": "blueberry",
-      "feature_tint": null,
-      "functions": [],
-      "layers": []
+      "speciesId": "haskap",
+      "cultivarId": null
     },
     {
       "id": "comfrey",
-      "name": "Comfrey",
-      "cultivar": "Comfrey",
-      "background": "bg_4",
-      "feature": null,
-      "feature_tint": null,
-      "functions": [
-        "nitrogen_fixer"
-      ],
-      "layers": [
-        "herb"
-      ]
+      "speciesId": "comfrey",
+      "cultivarId": null
     }
   ]
 }
