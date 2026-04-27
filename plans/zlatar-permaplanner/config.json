@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "mapScale": {
+    "start": {
+      "x": 1884.876757650951,
+      "y": 2274.630934656741
+    },
+    "end": {
+      "x": 2095.7273779983457,
+      "y": 238.53807554452715
+    },
+    "linePhysicalLength": 86
+  },
+  "backgroundOpacity": 0.4,
+  "backgroundImagePath": "plans/zlatar-permaplanner/background.png"
+}
