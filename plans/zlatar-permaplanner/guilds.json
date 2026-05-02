@@ -4,7 +4,17 @@
       "id": "0d38e482-615f-48c6-b670-9ae530ca1014",
       "name": "New guild",
       "path": [],
-      "plants": []
+      "plants": [
+        {
+          "id": "33a31f08-15a1-49cf-a36f-29c0d9bd61f6",
+          "plantId": "28e38d4b-9813-4a06-866a-37e00fa82c8d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nashi pear"
+        }
+      ]
     }
   ]
 }
