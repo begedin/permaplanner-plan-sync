@@ -49,6 +49,33 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Comfrey"
+        },
+        {
+          "id": "5294036d-1d67-40d2-8067-aa5e03452997",
+          "plantId": "86d0ca47-d661-4117-a2a6-3a2f2723fd43",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Common plantain"
+        },
+        {
+          "id": "f4217043-c3b1-44d1-bbff-5d45e01eceb7",
+          "plantId": "b55eb666-3f93-4f1f-891e-e2a2b4034f15",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sweet William"
+        },
+        {
+          "id": "ebcfe0ba-7a47-42af-a2fe-27727e579f67",
+          "plantId": "290e85d9-fdda-4afb-a673-07bad480381e",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Carpathian bellflower"
         }
       ],
       "mulchLevel": 3
