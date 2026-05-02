@@ -13,8 +13,45 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Nashi pear"
+        },
+        {
+          "id": "9c8bd2b2-6389-4c88-9893-cfed18e1b643",
+          "plantId": "40a22e74-9e9e-4ec6-a498-ed3acff4a011",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nanking cherry"
+        },
+        {
+          "id": "82a6780d-7940-4fb7-aa7b-9db083dd58d8",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "e568e91f-db37-4ad4-b3b0-b971cc5282b8",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "3e97a7ae-ce6a-4204-8ae8-753cd5367042",
+          "plantId": "comfrey",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Comfrey"
         }
-      ]
+      ],
+      "mulchLevel": 3
     }
   ]
 }
