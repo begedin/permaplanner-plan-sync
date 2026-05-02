@@ -24,6 +24,11 @@
       "id": "comfrey",
       "speciesId": "comfrey",
       "cultivarId": null
+    },
+    {
+      "id": "28e38d4b-9813-4a06-866a-37e00fa82c8d",
+      "speciesId": "nashi_pear",
+      "cultivarId": "__unknown_cultivar__"
     }
   ]
 }
