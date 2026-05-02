@@ -34,6 +34,21 @@
       "id": "40a22e74-9e9e-4ec6-a498-ed3acff4a011",
       "speciesId": "nanking_cherry",
       "cultivarId": "__unknown_cultivar__"
+    },
+    {
+      "id": "b55eb666-3f93-4f1f-891e-e2a2b4034f15",
+      "speciesId": "sweet_william",
+      "cultivarId": null
+    },
+    {
+      "id": "290e85d9-fdda-4afb-a673-07bad480381e",
+      "speciesId": "carpathian_bellflower",
+      "cultivarId": null
+    },
+    {
+      "id": "86d0ca47-d661-4117-a2a6-3a2f2723fd43",
+      "speciesId": "plantago_major",
+      "cultivarId": null
     }
   ]
 }
