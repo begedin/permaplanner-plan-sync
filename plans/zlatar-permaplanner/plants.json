@@ -49,6 +49,36 @@
       "id": "86d0ca47-d661-4117-a2a6-3a2f2723fd43",
       "speciesId": "plantago_major",
       "cultivarId": null
+    },
+    {
+      "id": "333ca36a-0dd1-4078-ab2f-1373902682c7",
+      "speciesId": "pear",
+      "cultivarId": "morettini"
+    },
+    {
+      "id": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+      "speciesId": "strawberry",
+      "cultivarId": null
+    },
+    {
+      "id": "50f3c3b2-8245-48b8-9232-b1bac25102f5",
+      "speciesId": "chives",
+      "cultivarId": "common"
+    },
+    {
+      "id": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+      "speciesId": "calendula",
+      "cultivarId": null
+    },
+    {
+      "id": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
+      "speciesId": "fig",
+      "cultivarId": "brown_turkey"
+    },
+    {
+      "id": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
+      "speciesId": "nasturtium",
+      "cultivarId": null
     }
   ]
 }
