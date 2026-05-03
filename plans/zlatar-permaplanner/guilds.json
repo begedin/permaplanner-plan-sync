@@ -413,6 +413,32 @@
         }
       ],
       "mulchLevel": 1
+    },
+    {
+      "id": "3027d967-bee7-4870-bfbd-b0bd54bcbea1",
+      "name": "New guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "0e4bb2d6-dbe4-4f4a-bd7d-4ecd66796f11",
+          "plantId": "25abbbc7-8bcd-49d5-982f-66894e95db79",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "cf89ccc5-f472-4d97-9f3f-127b43d5baff",
+          "plantId": "063f1d51-510d-4013-a936-f86b69133aac",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        }
+      ],
+      "mulchLevel": 1
     }
   ]
 }
