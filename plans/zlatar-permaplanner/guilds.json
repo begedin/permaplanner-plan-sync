@@ -144,33 +144,6 @@
           "nameOrCultivar": "Comfrey"
         },
         {
-          "id": "5294036d-1d67-40d2-8067-aa5e03452997",
-          "plantId": "86d0ca47-d661-4117-a2a6-3a2f2723fd43",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Common plantain"
-        },
-        {
-          "id": "f4217043-c3b1-44d1-bbff-5d45e01eceb7",
-          "plantId": "b55eb666-3f93-4f1f-891e-e2a2b4034f15",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Sweet William"
-        },
-        {
-          "id": "ebcfe0ba-7a47-42af-a2fe-27727e579f67",
-          "plantId": "290e85d9-fdda-4afb-a673-07bad480381e",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Carpathian bellflower"
-        },
-        {
           "id": "94babf72-bbb1-4f3e-9829-dd41d920c02e",
           "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
           "x": 1457.6558922558922,
@@ -178,6 +151,24 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Nasturtium"
+        },
+        {
+          "id": "9045a9f2-baeb-4aa7-aba7-aa010fe26334",
+          "plantId": "b55eb666-3f93-4f1f-891e-e2a2b4034f15",
+          "x": 1457.6558922558922,
+          "y": 909.8323232323231,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "1995041a-245a-4b05-a75d-6ac644b03b13",
+          "plantId": "290e85d9-fdda-4afb-a673-07bad480381e",
+          "x": 1457.6558922558922,
+          "y": 909.8323232323231,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
         }
       ],
       "mulchLevel": 3
