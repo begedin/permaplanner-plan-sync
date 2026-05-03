@@ -2,7 +2,7 @@
   "guilds": [
     {
       "id": "0d38e482-615f-48c6-b670-9ae530ca1014",
-      "name": "New guild",
+      "name": "Nashi Guild",
       "path": [
         {
           "x": 1452.6558922558922,
@@ -169,9 +169,180 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Carpathian bellflower"
+        },
+        {
+          "id": "94babf72-bbb1-4f3e-9829-dd41d920c02e",
+          "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
+          "x": 1457.6558922558922,
+          "y": 909.8323232323231,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nasturtium"
         }
       ],
       "mulchLevel": 3
+    },
+    {
+      "id": "87b13b65-3927-40f3-a1dc-2a254e735aa2",
+      "name": "Morettini Pear Guild",
+      "path": [
+        {
+          "x": 1349.5294117647059,
+          "y": 1932.8705882352942
+        },
+        {
+          "x": 1353.4917960675007,
+          "y": 1922.475988737196
+        },
+        {
+          "x": 1361.1583416783726,
+          "y": 1913.1388548910302
+        },
+        {
+          "x": 1368.2117647058824,
+          "y": 1910.8470588235296
+        },
+        {
+          "x": 1376.9357759686864,
+          "y": 1913.1388548910302
+        },
+        {
+          "x": 1388.625850991323,
+          "y": 1918.1167335691641
+        },
+        {
+          "x": 1399.6376156972053,
+          "y": 1925.8171652077845
+        },
+        {
+          "x": 1401.929411764706,
+          "y": 1932.8705882352942
+        },
+        {
+          "x": 1401.3420899602477,
+          "y": 1946.6023215795583
+        },
+        {
+          "x": 1399.6376156972053,
+          "y": 1949.9475406745687
+        },
+        {
+          "x": 1388.625850991323,
+          "y": 1959.318560548483
+        },
+        {
+          "x": 1374.894117647059,
+          "y": 1961.5764705882355
+        },
+        {
+          "x": 1361.1583416783726,
+          "y": 1959.2846745207348
+        },
+        {
+          "x": 1353.4917960675007,
+          "y": 1951.618128909863
+        },
+        {
+          "x": 1350.1167335691641,
+          "y": 1943.2611451089701
+        },
+        {
+          "x": 1349.5294117647059,
+          "y": 1932.8705882352942
+        }
+      ],
+      "plants": [
+        {
+          "id": "9ff9a3e0-0b02-4dce-9303-536959d747cb",
+          "plantId": "333ca36a-0dd1-4078-ab2f-1373902682c7",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Morettini"
+        },
+        {
+          "id": "25d606f5-77e5-4d6c-befe-c2ccd1b531ce",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "0ba04b8f-07f0-4c10-b299-3105e21797ed",
+          "plantId": "50f3c3b2-8245-48b8-9232-b1bac25102f5",
+          "x": 1354.5294117647059,
+          "y": 1915.8470588235296,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "62a2d074-097c-4196-b342-c63e0adebed2",
+          "plantId": "comfrey",
+          "x": 1354.5294117647059,
+          "y": 1915.8470588235296,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Comfrey"
+        }
+      ],
+      "mulchLevel": 3
+    },
+    {
+      "id": "88d1e480-4ebf-4f71-b08d-2f2fface3310",
+      "name": "New guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "0494319b-961c-402a-bfbc-b26a16d2867f",
+          "plantId": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Brown Turkey"
+        },
+        {
+          "id": "a21e2f08-a8e4-4970-9a28-4401646baa39",
+          "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nasturtium"
+        },
+        {
+          "id": "c1656f3d-fcd8-4f46-b8cd-02cd9ac3a37d",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula"
+        },
+        {
+          "id": "ccb6521b-ec1a-41e3-91bd-4c8d801dfd70",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula"
+        },
+        {
+          "id": "0712b184-8c55-4276-9c6b-20ad26f165b2",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula"
+        }
+      ],
+      "mulchLevel": 1
     }
   ]
 }
