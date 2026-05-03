@@ -169,6 +169,15 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "cedae744-7251-4a05-9750-3542449e69d4",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 1457.6558922558922,
+          "y": 909.8323232323231,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
         }
       ],
       "mulchLevel": 3
