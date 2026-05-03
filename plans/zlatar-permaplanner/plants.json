@@ -79,6 +79,11 @@
       "id": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
       "speciesId": "nasturtium",
       "cultivarId": null
+    },
+    {
+      "id": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+      "speciesId": "plantain",
+      "cultivarId": "ribwort"
     }
   ]
 }
