@@ -84,6 +84,16 @@
       "id": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
       "speciesId": "plantain",
       "cultivarId": "ribwort"
+    },
+    {
+      "id": "25abbbc7-8bcd-49d5-982f-66894e95db79",
+      "speciesId": "persimmon",
+      "cultivarId": null
+    },
+    {
+      "id": "063f1d51-510d-4013-a936-f86b69133aac",
+      "speciesId": "yamlina",
+      "cultivarId": null
     }
   ]
 }
