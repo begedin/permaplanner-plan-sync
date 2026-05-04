@@ -287,13 +287,22 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Comfrey"
+        },
+        {
+          "id": "d1ec71ec-b106-40f3-857b-169e395cc62b",
+          "plantId": "fe606b96-7777-42ab-9dde-7e7e59f489ba",
+          "x": 1354.5294117647059,
+          "y": 1915.8470588235296,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Livingstone daisy"
         }
       ],
       "mulchLevel": 3
     },
     {
       "id": "88d1e480-4ebf-4f71-b08d-2f2fface3310",
-      "name": "New guild",
+      "name": "Fig guild",
       "path": [
         {
           "x": 1444.7529411764706,
@@ -412,11 +421,11 @@
           "nameOrCultivar": "Brown Turkey"
         }
       ],
-      "mulchLevel": 1
+      "mulchLevel": 4
     },
     {
       "id": "3027d967-bee7-4870-bfbd-b0bd54bcbea1",
-      "name": "New guild",
+      "name": "Persimon guild",
       "path": [],
       "plants": [
         {
@@ -436,9 +445,45 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "22eb68bb-dbb3-4288-b66f-44367aa855c5",
+          "plantId": "d4bc4262-5b2a-451f-8cf4-707cc2e6748d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Gooseberry"
+        },
+        {
+          "id": "c2c8e052-0fd3-4728-a43d-9512d6577ff9",
+          "plantId": "aaf9778b-c7aa-4442-8df4-04f7214271b9",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dill"
+        },
+        {
+          "id": "63b0a39d-e088-4c2f-bb42-dc34d8b117d5",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula (pot marigold)"
+        },
+        {
+          "id": "8f3cabad-a38b-43e7-a131-1b468612e957",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
         }
       ],
-      "mulchLevel": 1
+      "mulchLevel": 2
     }
   ]
 }
