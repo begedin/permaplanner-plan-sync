@@ -94,6 +94,21 @@
       "id": "063f1d51-510d-4013-a936-f86b69133aac",
       "speciesId": "yamlina",
       "cultivarId": null
+    },
+    {
+      "id": "d4bc4262-5b2a-451f-8cf4-707cc2e6748d",
+      "speciesId": "gooseberry",
+      "cultivarId": null
+    },
+    {
+      "id": "aaf9778b-c7aa-4442-8df4-04f7214271b9",
+      "speciesId": "dill",
+      "cultivarId": null
+    },
+    {
+      "id": "fe606b96-7777-42ab-9dde-7e7e59f489ba",
+      "speciesId": "livingstone_daisy",
+      "cultivarId": null
     }
   ]
 }
