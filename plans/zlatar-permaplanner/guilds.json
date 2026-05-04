@@ -301,129 +301,6 @@
       "mulchLevel": 3
     },
     {
-      "id": "88d1e480-4ebf-4f71-b08d-2f2fface3310",
-      "name": "Fig guild",
-      "path": [
-        {
-          "x": 1444.7529411764706,
-          "y": 1580.3764705882354
-        },
-        {
-          "x": 1450.3859137145596,
-          "y": 1564.970106384255
-        },
-        {
-          "x": 1459.7230475607255,
-          "y": 1555.632972538089
-        },
-        {
-          "x": 1470.1176470588236,
-          "y": 1551.6705882352942
-        },
-        {
-          "x": 1483.8534230275097,
-          "y": 1555.632972538089
-        },
-        {
-          "x": 1486.5082039324993,
-          "y": 1558.2877534430786
-        },
-        {
-          "x": 1493.8117647058823,
-          "y": 1575.364705882353
-        },
-        {
-          "x": 1493.224442901424,
-          "y": 1585.7552627560287
-        },
-        {
-          "x": 1488.1787921677935,
-          "y": 1594.1122465569215
-        },
-        {
-          "x": 1482.1787921677935,
-          "y": 1598.4715017249534
-        },
-        {
-          "x": 1463.4352941176471,
-          "y": 1600.729411764706
-        },
-        {
-          "x": 1454.7153254792654,
-          "y": 1598.4715017249534
-        },
-        {
-          "x": 1447.0447372439712,
-          "y": 1592.4416583216275
-        },
-        {
-          "x": 1445.3402629809289,
-          "y": 1589.0964392266171
-        },
-        {
-          "x": 1444.7529411764706,
-          "y": 1580.3764705882354
-        }
-      ],
-      "plants": [
-        {
-          "id": "0494319b-961c-402a-bfbc-b26a16d2867f",
-          "plantId": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Brown Turkey"
-        },
-        {
-          "id": "a21e2f08-a8e4-4970-9a28-4401646baa39",
-          "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Nasturtium"
-        },
-        {
-          "id": "c1656f3d-fcd8-4f46-b8cd-02cd9ac3a37d",
-          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Calendula"
-        },
-        {
-          "id": "ccb6521b-ec1a-41e3-91bd-4c8d801dfd70",
-          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Calendula"
-        },
-        {
-          "id": "0712b184-8c55-4276-9c6b-20ad26f165b2",
-          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
-          "x": 5,
-          "y": 5,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Calendula"
-        },
-        {
-          "id": "c24b9214-87df-4084-ade4-3540c2748e18",
-          "plantId": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
-          "x": 1449.7529411764706,
-          "y": 1556.6705882352942,
-          "width": 16,
-          "height": 16,
-          "nameOrCultivar": "Brown Turkey"
-        }
-      ],
-      "mulchLevel": 4
-    },
-    {
       "id": "3027d967-bee7-4870-bfbd-b0bd54bcbea1",
       "name": "Persimon guild",
       "path": [],
@@ -484,6 +361,68 @@
         }
       ],
       "mulchLevel": 2
+    },
+    {
+      "id": "4e128aa7-e034-453c-a45c-3b1323c808f0",
+      "name": "Fig guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "cf4520e3-29c2-408a-8c35-32f1cd85c8b7",
+          "plantId": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Brown Turkey"
+        },
+        {
+          "id": "fc4629b6-e47f-4405-ae77-086e46626e21",
+          "plantId": "97bb8174-9504-4555-bd15-d0a00baaa4d3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Brown Turkey"
+        },
+        {
+          "id": "d4e6f3da-de84-4424-91e9-ba670aa4b42d",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula (pot marigold)"
+        },
+        {
+          "id": "380fc359-4413-4237-9b8f-1aaef484e390",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula (pot marigold)"
+        },
+        {
+          "id": "4b77d712-0b44-4bf7-ad25-7b53e34989b9",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula (pot marigold)"
+        },
+        {
+          "id": "c0360f94-3cf1-4e8b-be49-f91e6f360698",
+          "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nasturtium"
+        }
+      ],
+      "mulchLevel": 4
     }
   ]
 }
