@@ -109,6 +109,11 @@
       "id": "fe606b96-7777-42ab-9dde-7e7e59f489ba",
       "speciesId": "livingstone_daisy",
       "cultivarId": null
+    },
+    {
+      "id": "957fcea9-301b-43df-ae84-61b42260c88e",
+      "speciesId": "apple",
+      "cultivarId": "apistar"
     }
   ]
 }
