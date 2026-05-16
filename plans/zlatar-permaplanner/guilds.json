@@ -443,13 +443,57 @@
           "nameOrCultivar": "Apistar"
         },
         {
-          "id": "751da21e-fa1a-4fb0-b858-65f6bd6de39f",
-          "plantId": "957fcea9-301b-43df-ae84-61b42260c88e",
+          "id": "756900ab-fb3f-4c94-87dd-7524701edf71",
+          "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996",
           "x": 5,
           "y": 5,
           "width": 16,
           "height": 16,
-          "nameOrCultivar": "Apistar"
+          "nameOrCultivar": "Creeping (mother of thyme)"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "37687870-b1fd-4129-9189-d5af560262b4",
+      "name": "Double Cherry Guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "cf4e15bb-1838-4d01-bf2f-92caa6e902c3",
+          "plantId": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sour cherry"
+        },
+        {
+          "id": "989da778-6e50-470d-834e-bb7529f8660d",
+          "plantId": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sour cherry"
+        },
+        {
+          "id": "b3dc48f7-a029-4e02-9358-47c5ee16b459",
+          "plantId": "comfrey",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Comfrey"
+        },
+        {
+          "id": "95660ef4-a31a-44b5-a9d7-38c2c9d3a041",
+          "plantId": "comfrey",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Comfrey"
         }
       ],
       "mulchLevel": 1
