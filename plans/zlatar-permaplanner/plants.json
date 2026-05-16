@@ -114,6 +114,16 @@
       "id": "957fcea9-301b-43df-ae84-61b42260c88e",
       "speciesId": "apple",
       "cultivarId": "apistar"
+    },
+    {
+      "id": "f832d85c-f9f8-419c-89fc-99eed038f996",
+      "speciesId": "thyme",
+      "cultivarId": "creeping"
+    },
+    {
+      "id": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
+      "speciesId": "sour_cherry",
+      "cultivarId": null
     }
   ]
 }
