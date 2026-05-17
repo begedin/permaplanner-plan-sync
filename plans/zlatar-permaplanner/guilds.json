@@ -976,6 +976,433 @@
         }
       ],
       "mulchLevel": 1
+    },
+    {
+      "id": "43bfa9b3-929e-4706-bcca-44d012f1a163",
+      "name": "Old Mix 1",
+      "path": [],
+      "plants": [
+        {
+          "id": "88892a7e-ea8d-4e7e-a6c1-0264ca9c7daa",
+          "plantId": "066faeb3-995f-488b-ad30-d3484aa281b7",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Yellowhorn (shan li hong)"
+        },
+        {
+          "id": "8df5fd08-d5e1-4fe2-8572-f03a3c9653a0",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "db6b235f-d830-4a0d-97ae-bacc68e428a3",
+          "plantId": "2985ee09-a7a2-4099-adcb-29ecba5c460e",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hazelnut"
+        },
+        {
+          "id": "3247ad88-3a6d-4235-a767-c4754f0f6819",
+          "plantId": "92418615-dc27-4c9b-8169-f1180f8ca4e4",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Cornelian cherry"
+        },
+        {
+          "id": "15c98d85-d7c0-4771-8ad0-4f27e18f37b5",
+          "plantId": "b726da28-9a71-4804-8caf-d29a027a5252",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blackberry"
+        },
+        {
+          "id": "4d07a8ff-5402-4764-970f-553998677139",
+          "plantId": "b726da28-9a71-4804-8caf-d29a027a5252",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blackberry"
+        },
+        {
+          "id": "653205cf-8302-4c49-a2bc-ca57e6794539",
+          "plantId": "ef136b9d-1102-434d-a913-bb105c7e5b73",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "13533201-bc9f-47f2-a2ad-37e17e70f682",
+          "plantId": "92418615-dc27-4c9b-8169-f1180f8ca4e4",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Cornelian cherry"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "c1b33c82-f324-4013-ba9e-3faf3e94b161",
+      "name": "Old Mix 2",
+      "path": [],
+      "plants": [
+        {
+          "id": "3c29263c-431f-4c8f-93b1-1e7c8cab5194",
+          "plantId": "bcfa33a8-1966-44a8-960d-8c094fdf8ea9",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sweet cherry"
+        },
+        {
+          "id": "0e809b32-c5c6-4f28-938e-cdfe71741ca7",
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Rosemary"
+        },
+        {
+          "id": "1c234b56-3f03-444d-b048-0c03fc27ffab",
+          "plantId": "f958276a-f439-48d9-b044-1f28b51be6a9",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plum"
+        },
+        {
+          "id": "37e14a8f-7c40-450b-8381-9f5bc7dd3ecb",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "e5491f94-222e-4ee4-adf7-c27ee44b0711",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "70a3692a-bf16-4d4b-90f7-558057ad5438",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "27547c65-2431-41a6-a66a-b048d1e9530e",
+          "plantId": "d4bc4262-5b2a-451f-8cf4-707cc2e6748d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Gooseberry"
+        },
+        {
+          "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
+          "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "7d9e0cdb-ae01-4bc3-955f-e3870e4b283c",
+          "plantId": "6d28496d-1b99-4ddf-963a-08e75f82e244",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Peach"
+        },
+        {
+          "id": "604ddfab-ab71-4f12-920f-0720c0ac810e",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "4adaadb8-fced-4d61-ab2b-5e02ae011f7a",
+      "name": "Northern raspberry batch",
+      "path": [],
+      "plants": [
+        {
+          "id": "6a2fa3e7-bffd-409d-8058-ad2fd71e7958",
+          "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Raspberry"
+        },
+        {
+          "id": "9516535b-2442-41eb-8d34-18c084dbf2e5",
+          "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Raspberry"
+        },
+        {
+          "id": "edc4fc31-7830-4277-8c61-ea49b97741ce",
+          "plantId": "7c2bf492-cce6-4409-9d11-6e19fd3849d0",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Fall Gold"
+        },
+        {
+          "id": "8baa940b-e472-41ff-b686-4f5d05a88771",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
+        },
+        {
+          "id": "05f2f9c8-29b5-43d2-a227-615c93115a1d",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
+        },
+        {
+          "id": "21e22155-3218-49f6-985b-ae99dafbf923",
+          "plantId": "81cdac9f-d24b-48fe-a8fd-f6b9b16f3af4",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "adfd49c7-2755-4438-b54c-c391a9bfca3e",
+      "name": "Francuska kožarka",
+      "path": [],
+      "plants": [
+        {
+          "id": "063cf8a6-5711-4a0d-a670-f8dccb3a6a54",
+          "plantId": "b0750d65-c7a6-4f83-987a-bc085a3aa731",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Apple"
+        },
+        {
+          "id": "c59e0eca-ba57-4e7a-a4bc-9661b655fd62",
+          "plantId": "0ec1c225-8389-4226-8873-c412835a0fad",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Apricot"
+        },
+        {
+          "id": "d33330dd-4ea3-470c-953e-ae465762eb06",
+          "plantId": "32e802bd-d36b-490e-8592-80d729bb082f",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hinnonmäki Red"
+        },
+        {
+          "id": "c235f588-eddb-4ef0-b008-a21c146f9b31",
+          "plantId": "e760792c-e1fa-41fb-acb4-52d3498a5ef1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Goji berry"
+        },
+        {
+          "id": "db81a908-7b86-468a-a89e-84e1f852686c",
+          "plantId": "063f1d51-510d-4013-a936-f86b69133aac",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Yamlina (raspberry–strawberry)"
+        },
+        {
+          "id": "960d6fa7-0549-4c29-bef6-6ab499da0539",
+          "plantId": "e7512c5a-8daf-49d4-931d-89348f54ace4",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Goumi"
+        },
+        {
+          "id": "b9cae8b7-0d8d-4a2e-9241-b4646773705e",
+          "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Calendula (pot marigold)"
+        },
+        {
+          "id": "f0e0b4e4-d1e6-4234-a205-544ec2535632",
+          "plantId": "50daca98-d216-484f-9724-9fc497204679",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        }
+      ],
+      "mulchLevel": 2
+    },
+    {
+      "id": "1795fa51-dd6d-4025-bcb2-19cc443a5671",
+      "name": "Kod alatnice",
+      "path": [],
+      "plants": [
+        {
+          "id": "aff6f8e9-9d90-43f0-b46a-df24d7ebe1d0",
+          "plantId": "36f9cff9-a385-4555-bfd2-d866d9a52223",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Apple"
+        },
+        {
+          "id": "575f936d-18ad-4ee2-9d3a-49e1821af972",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "e757f4de-e66e-4546-8abb-719544fc785e",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "2f8ec0ee-7f0c-49e3-a131-72c29d3ad466",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "d251367d-12c1-4048-aa0b-c8907b9f9a72",
+          "plantId": "1c50cbcb-d11d-4748-85e7-937b1076bd13",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dog rose (Rosa canina)"
+        },
+        {
+          "id": "f3a4d8a4-23e7-48db-9b79-3cf62e04b106",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        },
+        {
+          "id": "1903eb68-d7af-42a2-b478-dcc4906a8175",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        },
+        {
+          "id": "735dfe51-abf0-4ef4-958b-7c4b4053d90f",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        },
+        {
+          "id": "9d3db137-10a1-464f-826c-7b101b9b161c",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        },
+        {
+          "id": "807fce5b-fee4-4c85-b1dd-38840a158265",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        },
+        {
+          "id": "6c8878ec-9abe-4d75-9283-f7673cc8b98d",
+          "plantId": "ad25651a-ee52-4545-8399-5207502f4269",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Dutch Master"
+        }
+      ],
+      "mulchLevel": 1
     }
   ]
 }
