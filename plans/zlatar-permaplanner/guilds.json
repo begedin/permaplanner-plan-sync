@@ -450,6 +450,60 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Creeping (mother of thyme)"
+        },
+        {
+          "id": "94494755-3888-4591-91ab-cbd8d8b6e5c5",
+          "plantId": "a7707479-1f73-44f4-8f62-9a8488315921",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Narcissus (daffodil)"
+        },
+        {
+          "id": "b214ca98-c4c7-4b5d-8bda-254092c28688",
+          "plantId": "3622bdc6-5377-4dbe-93b3-a8b573a39ba6",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Nanking cherry"
+        },
+        {
+          "id": "b2ee9c70-d713-49c9-ba7d-a330ea16b655",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
+        },
+        {
+          "id": "c804be53-ee76-4026-92e4-f5dc362e6098",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
+        },
+        {
+          "id": "9363f83c-6135-4a99-83c1-15280c79675c",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "a4ccdfc6-0a04-46f8-81f4-1e09ecd9b3b0",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
         }
       ],
       "mulchLevel": 1
