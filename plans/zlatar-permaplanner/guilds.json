@@ -494,8 +494,131 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Comfrey"
+        },
+        {
+          "id": "61a37c4f-3e90-4c41-9c52-9925f2bfd40b",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "03fae6ec-d5e1-4013-86c5-320f8bd187fa",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "d477ea10-1d41-4777-86e2-4726e8845fcb",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "6058c7db-b198-4eb1-8587-9db3bd2c1c2c",
+          "plantId": "027ef50a-61db-4c08-b5f3-2a34fd2fa979",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Curry plant"
+        },
+        {
+          "id": "ac62d672-bd47-4ca0-b4fa-f26288d96a26",
+          "plantId": "d20040cf-69af-4f3b-a992-5ec8ed1fea2c",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ornamental rose (flowers, no hips)"
         }
       ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "8674e425-dbb9-409d-9ce7-c661d08ddcd3",
+      "name": "Che guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "1963d82b-38de-4640-bebe-f7ef329f5692",
+          "plantId": "4d085563-c2cf-465c-b422-48fd2b5a5773",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Seedless"
+        },
+        {
+          "id": "69e05bd7-d03e-4bdf-85e7-c52562ad08e0",
+          "plantId": "fa1fbb36-f6fd-4880-9c6b-2e4c9ecdde74",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Black currant"
+        },
+        {
+          "id": "34dcdfa9-188d-4e3e-a49f-9303d69e0ab5",
+          "plantId": "fa1fbb36-f6fd-4880-9c6b-2e4c9ecdde74",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Black currant"
+        },
+        {
+          "id": "e10ae91a-8115-40a6-aba5-5c41e366bb23",
+          "plantId": "f6da31c7-4545-4ef5-962f-ef55a7c54c0c",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Red currant"
+        },
+        {
+          "id": "f0fd3758-c2d5-4d0c-b9c5-162ed6d65b7a",
+          "plantId": "comfrey",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Comfrey"
+        },
+        {
+          "id": "b87af3af-8761-4b08-8b7b-45d978eb4da1",
+          "plantId": "73602481-4f18-41a2-94bd-71eb89ab5933",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Daisy"
+        },
+        {
+          "id": "97497803-3d6e-44ec-9bca-51d4a5530816",
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Ribwort (narrow-leaf)"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "100b56f1-1ab9-4963-8dc8-053e48cbe729",
+      "name": "Aprisali Apricot",
+      "path": [],
+      "plants": [],
       "mulchLevel": 1
     }
   ]
