@@ -164,6 +164,16 @@
       "id": "ffc8e895-f697-42be-a56a-d1b9d904080f",
       "speciesId": "apricot",
       "cultivarId": "aprisali"
+    },
+    {
+      "id": "a7707479-1f73-44f4-8f62-9a8488315921",
+      "speciesId": "narcissus",
+      "cultivarId": null
+    },
+    {
+      "id": "3622bdc6-5377-4dbe-93b3-a8b573a39ba6",
+      "speciesId": "nanking_cherry",
+      "cultivarId": null
     }
   ]
 }
