@@ -124,6 +124,36 @@
       "id": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
       "speciesId": "sour_cherry",
       "cultivarId": null
+    },
+    {
+      "id": "027ef50a-61db-4c08-b5f3-2a34fd2fa979",
+      "speciesId": "curry_plant",
+      "cultivarId": null
+    },
+    {
+      "id": "d20040cf-69af-4f3b-a992-5ec8ed1fea2c",
+      "speciesId": "rosehip",
+      "cultivarId": "ornamental"
+    },
+    {
+      "id": "4d085563-c2cf-465c-b422-48fd2b5a5773",
+      "speciesId": "che",
+      "cultivarId": "seedless"
+    },
+    {
+      "id": "fa1fbb36-f6fd-4880-9c6b-2e4c9ecdde74",
+      "speciesId": "black_currant",
+      "cultivarId": null
+    },
+    {
+      "id": "f6da31c7-4545-4ef5-962f-ef55a7c54c0c",
+      "speciesId": "red_currant",
+      "cultivarId": null
+    },
+    {
+      "id": "73602481-4f18-41a2-94bd-71eb89ab5933",
+      "speciesId": "daisy",
+      "cultivarId": null
     }
   ]
 }
