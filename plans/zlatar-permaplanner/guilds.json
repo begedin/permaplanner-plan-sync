@@ -618,7 +618,44 @@
       "id": "100b56f1-1ab9-4963-8dc8-053e48cbe729",
       "name": "Aprisali Apricot",
       "path": [],
-      "plants": [],
+      "plants": [
+        {
+          "id": "8d8af8c7-fc22-433a-bb27-282cfddd7c70",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "507d1856-f35f-412f-ae1e-4eb48a405304",
+          "plantId": "haskap",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Haskap"
+        },
+        {
+          "id": "530a57ba-57f4-453e-943f-5c91f89f3a52",
+          "plantId": "3fa4892a-c7cd-49c2-b686-ab180b9df74b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "fef317d0-9da5-4d29-b369-35fa67a4605a",
+          "plantId": "ffc8e895-f697-42be-a56a-d1b9d904080f",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Apricot"
+        }
+      ],
       "mulchLevel": 1
     }
   ]
