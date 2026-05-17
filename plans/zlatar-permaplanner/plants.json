@@ -244,6 +244,106 @@
       "id": "1baa88e4-37f7-480a-bdcc-3fbf243bc99a",
       "speciesId": "lilac",
       "cultivarId": "common_purple"
+    },
+    {
+      "id": "066faeb3-995f-488b-ad30-d3484aa281b7",
+      "speciesId": "yellowhorn",
+      "cultivarId": null
+    },
+    {
+      "id": "92418615-dc27-4c9b-8169-f1180f8ca4e4",
+      "speciesId": "cornelian_cherry",
+      "cultivarId": null
+    },
+    {
+      "id": "b726da28-9a71-4804-8caf-d29a027a5252",
+      "speciesId": "blackberry",
+      "cultivarId": null
+    },
+    {
+      "id": "ef136b9d-1102-434d-a913-bb105c7e5b73",
+      "speciesId": "japanese_maple",
+      "cultivarId": null
+    },
+    {
+      "id": "bcfa33a8-1966-44a8-960d-8c094fdf8ea9",
+      "speciesId": "sweet_cherry",
+      "cultivarId": "yellow_drogan"
+    },
+    {
+      "id": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
+      "speciesId": "rosemary",
+      "cultivarId": null
+    },
+    {
+      "id": "f958276a-f439-48d9-b044-1f28b51be6a9",
+      "speciesId": "plum",
+      "cultivarId": "california_blue"
+    },
+    {
+      "id": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3",
+      "speciesId": "raspberry",
+      "cultivarId": null
+    },
+    {
+      "id": "7c2bf492-cce6-4409-9d11-6e19fd3849d0",
+      "speciesId": "raspberry",
+      "cultivarId": "fall_gold"
+    },
+    {
+      "id": "41b5e495-1004-4705-b8da-c9f5fbce6864",
+      "speciesId": "sage",
+      "cultivarId": null
+    },
+    {
+      "id": "6d28496d-1b99-4ddf-963a-08e75f82e244",
+      "speciesId": "peach",
+      "cultivarId": null
+    },
+    {
+      "id": "81cdac9f-d24b-48fe-a8fd-f6b9b16f3af4",
+      "speciesId": "mulberry",
+      "cultivarId": "black"
+    },
+    {
+      "id": "b0750d65-c7a6-4f83-987a-bc085a3aa731",
+      "speciesId": "apple",
+      "cultivarId": "francuska_kozarka"
+    },
+    {
+      "id": "0ec1c225-8389-4226-8873-c412835a0fad",
+      "speciesId": "apricot",
+      "cultivarId": "korai_piros"
+    },
+    {
+      "id": "32e802bd-d36b-490e-8592-80d729bb082f",
+      "speciesId": "gooseberry",
+      "cultivarId": "hinnonmaki_red"
+    },
+    {
+      "id": "e760792c-e1fa-41fb-acb4-52d3498a5ef1",
+      "speciesId": "goji",
+      "cultivarId": null
+    },
+    {
+      "id": "50daca98-d216-484f-9724-9fc497204679",
+      "speciesId": "ornamental_allium",
+      "cultivarId": "naples_garlic"
+    },
+    {
+      "id": "36f9cff9-a385-4555-bfd2-d866d9a52223",
+      "speciesId": "apple",
+      "cultivarId": "amaty"
+    },
+    {
+      "id": "1c50cbcb-d11d-4748-85e7-937b1076bd13",
+      "speciesId": "rosehip",
+      "cultivarId": "dog_rose"
+    },
+    {
+      "id": "ad25651a-ee52-4545-8399-5207502f4269",
+      "speciesId": "narcissus",
+      "cultivarId": "dutch_master"
     }
   ]
 }
