@@ -300,6 +300,15 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Livingstone daisy"
+        },
+        {
+          "id": "7b0c6ac7-d30f-4388-a2bf-da84a10d25c4",
+          "plantId": "7ab5bab2-53e3-4c33-b4d3-cf8653537e80",
+          "x": 1354.219951628158,
+          "y": 1915.8470588235296,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Tikka"
         }
       ],
       "mulchLevel": 3
@@ -506,7 +515,7 @@
           "nameOrCultivar": "Haskap"
         }
       ],
-      "mulchLevel": 1
+      "mulchLevel": 3
     },
     {
       "id": "37687870-b1fd-4129-9189-d5af560262b4",
@@ -604,7 +613,7 @@
           "nameOrCultivar": "Plant"
         }
       ],
-      "mulchLevel": 1
+      "mulchLevel": 4
     },
     {
       "id": "8674e425-dbb9-409d-9ce7-c661d08ddcd3",
@@ -673,9 +682,18 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Ribwort (narrow-leaf)"
+        },
+        {
+          "id": "231245b0-3e88-4c43-b765-73d6b652e701",
+          "plantId": "b49bf047-97c8-4205-8e74-e939714fe0e7",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Prostratus"
         }
       ],
-      "mulchLevel": 1
+      "mulchLevel": 3
     },
     {
       "id": "100b56f1-1ab9-4963-8dc8-053e48cbe729",
@@ -717,6 +735,244 @@
           "width": 16,
           "height": 16,
           "nameOrCultivar": "Apricot"
+        }
+      ],
+      "mulchLevel": 3
+    },
+    {
+      "id": "c489c51d-cbfd-4c4c-a3f9-793467db7a8a",
+      "name": "Siberian lemon (Hardy orange)",
+      "path": [],
+      "plants": [
+        {
+          "id": "e0061791-b5b9-47fd-bb49-de045cc6c4a4",
+          "plantId": "3b5618d1-7417-42f9-bcfd-0801100f0b43",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hardy orange (trifoliate)"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "272c5ac4-cdee-495d-a681-db6dc22797f0",
+      "name": "North Star Cherry Guild",
+      "path": [],
+      "plants": [
+        {
+          "id": "4463bfab-6fdc-4e87-a1f0-7c126cc3e793",
+          "plantId": "ddcdbc2e-251f-432b-8be9-6377ae8fbaaf",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sweet cherry"
+        },
+        {
+          "id": "2f7635c9-dddc-40d7-89e0-224a0a4cd566",
+          "plantId": "89c210d8-efe8-4b26-8ad9-e7730e2ffb7a",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "cc247d90-01ad-40d5-a57e-94516c892e77",
+      "name": "Birch Forest",
+      "path": [],
+      "plants": [
+        {
+          "id": "90a0d8b2-43d9-4f97-9aac-4de373f17922",
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Birch"
+        },
+        {
+          "id": "e5c5d62b-fbb1-4277-aff3-d2d838602c85",
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Birch"
+        },
+        {
+          "id": "43dab7bc-5d8e-4768-993b-d2316dcd6749",
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Birch"
+        },
+        {
+          "id": "1221c733-373e-446f-8e29-59d5f1434e39",
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Birch"
+        },
+        {
+          "id": "d85052f9-1af6-4f96-9a72-80af3326559c",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "fbdd0dbd-bf27-4320-85bb-38fcf7049c8e",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "1c3caac4-e5e1-463f-b9f3-f46ab37d8594",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "27f0ce7d-462d-4f96-a5ca-e3376f752c48",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "a919bd44-453a-4e85-b8db-a8498c3e4f46",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "47151f25-6643-41d3-830d-8cc3834702a7",
+          "plantId": "f057370d-1370-4197-88f6-729296b81412",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Blueberry"
+        },
+        {
+          "id": "61d53c4c-ce88-47f8-936d-f8302bec9b93",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "281f6a13-a48d-4344-9f2b-66942c78315c",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Strawberry"
+        },
+        {
+          "id": "bfeff623-1aa0-4331-a163-ce3f19392f41",
+          "plantId": "c98b7e86-174a-4aa6-abdf-dfb2fcd07dca",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Plant"
+        },
+        {
+          "id": "f11691f4-c955-4b9b-9cdb-38046e313a22",
+          "plantId": "73f4d462-7219-403f-a85a-2f87da6e51d5",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hibiscus"
+        }
+      ],
+      "mulchLevel": 4
+    },
+    {
+      "id": "9723a444-4427-4b11-a250-fa6b9c45ced7",
+      "name": "Lone Roman Hazelnut",
+      "path": [],
+      "plants": [
+        {
+          "id": "66d37924-ed75-4138-a6ea-922e4fbaf9e4",
+          "plantId": "2985ee09-a7a2-4099-adcb-29ecba5c460e",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hazelnut"
+        }
+      ],
+      "mulchLevel": 1
+    },
+    {
+      "id": "3dfe0537-2fdb-485c-ba2a-5eee1fa5416c",
+      "name": "The Indigenous Plants",
+      "path": [],
+      "plants": [
+        {
+          "id": "9cb1985f-9c71-4e31-abd0-ecab312f88a2",
+          "plantId": "692b7f57-ec8b-4f71-acd5-aabc034de40c",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sweet cherry"
+        },
+        {
+          "id": "8d2bc8fe-7409-4b96-a249-b6ee6816f1f3",
+          "plantId": "692b7f57-ec8b-4f71-acd5-aabc034de40c",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Sweet cherry"
+        },
+        {
+          "id": "8b180c09-76e8-479c-8428-0d93873269ba",
+          "plantId": "6ef0da72-f4be-4745-b7da-a708d005e954",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Hazelnut"
+        },
+        {
+          "id": "1251fc7c-49e6-4b29-b164-77cf0f5ccd76",
+          "plantId": "1baa88e4-37f7-480a-bdcc-3fbf243bc99a",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16,
+          "nameOrCultivar": "Common purple"
         }
       ],
       "mulchLevel": 1
