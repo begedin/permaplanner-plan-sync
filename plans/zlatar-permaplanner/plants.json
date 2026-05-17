@@ -154,6 +154,16 @@
       "id": "73602481-4f18-41a2-94bd-71eb89ab5933",
       "speciesId": "daisy",
       "cultivarId": null
+    },
+    {
+      "id": "3fa4892a-c7cd-49c2-b686-ab180b9df74b",
+      "speciesId": "larkspur",
+      "cultivarId": null
+    },
+    {
+      "id": "ffc8e895-f697-42be-a56a-d1b9d904080f",
+      "speciesId": "apricot",
+      "cultivarId": "aprisali"
     }
   ]
 }
