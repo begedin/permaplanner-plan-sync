@@ -179,6 +179,71 @@
       "id": "e7512c5a-8daf-49d4-931d-89348f54ace4",
       "speciesId": "goumi",
       "cultivarId": null
+    },
+    {
+      "id": "3b5618d1-7417-42f9-bcfd-0801100f0b43",
+      "speciesId": "hardy_orange",
+      "cultivarId": null
+    },
+    {
+      "id": "b49bf047-97c8-4205-8e74-e939714fe0e7",
+      "speciesId": "rosemary",
+      "cultivarId": "prostratus"
+    },
+    {
+      "id": "ddcdbc2e-251f-432b-8be9-6377ae8fbaaf",
+      "speciesId": "sweet_cherry",
+      "cultivarId": "new_star"
+    },
+    {
+      "id": "89c210d8-efe8-4b26-8ad9-e7730e2ffb7a",
+      "speciesId": "mint",
+      "cultivarId": "multimentha"
+    },
+    {
+      "id": "7ab5bab2-53e3-4c33-b4d3-cf8653537e80",
+      "speciesId": "curry_plant",
+      "cultivarId": "tikka"
+    },
+    {
+      "id": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+      "speciesId": "birch",
+      "cultivarId": null
+    },
+    {
+      "id": "f057370d-1370-4197-88f6-729296b81412",
+      "speciesId": "blueberry",
+      "cultivarId": null
+    },
+    {
+      "id": "c98b7e86-174a-4aa6-abdf-dfb2fcd07dca",
+      "speciesId": "marjoram",
+      "cultivarId": "venezia"
+    },
+    {
+      "id": "73f4d462-7219-403f-a85a-2f87da6e51d5",
+      "speciesId": "hibiscus",
+      "cultivarId": null
+    },
+    {
+      "id": "2985ee09-a7a2-4099-adcb-29ecba5c460e",
+      "speciesId": "hazelnut",
+      "cultivarId": "tonda_romana"
+    },
+    {
+      "id": "692b7f57-ec8b-4f71-acd5-aabc034de40c",
+      "speciesId": "sweet_cherry",
+      "cultivarId": "from_seed"
+    },
+    {
+      "id": "6ef0da72-f4be-4745-b7da-a708d005e954",
+      "speciesId": "hazelnut",
+      "cultivarId": "from_seed"
+    },
+    {
+      "id": "1baa88e4-37f7-480a-bdcc-3fbf243bc99a",
+      "speciesId": "lilac",
+      "cultivarId": "common_purple"
     }
   ]
 }
