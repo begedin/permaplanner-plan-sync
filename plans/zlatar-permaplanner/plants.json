@@ -345,6 +345,21 @@
       "id": "ad25651a-ee52-4545-8399-5207502f4269",
       "speciesId": "narcissus",
       "cultivarId": "dutch_master"
+    },
+    {
+      "id": "8008f844-b825-4b85-891f-e764bb187a31",
+      "speciesId": "aubrieta",
+      "cultivarId": null
+    },
+    {
+      "id": "384e7fd7-ccca-4438-bd10-1120bfbac333",
+      "speciesId": "viburnum",
+      "cultivarId": "snowball"
+    },
+    {
+      "id": "83289b91-047b-48b5-8b38-5536ca8a72cb",
+      "speciesId": "coneflower",
+      "cultivarId": null
     }
   ]
 }
