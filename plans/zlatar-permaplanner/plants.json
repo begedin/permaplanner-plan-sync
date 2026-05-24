@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "plants": [
     {
       "id": "apple_granny_smith",
@@ -360,6 +360,46 @@
       "id": "83289b91-047b-48b5-8b38-5536ca8a72cb",
       "speciesId": "coneflower",
       "cultivarId": null
+    },
+    {
+      "id": "8b38b846-8fac-4598-b4c7-5ee2b0c6cff4",
+      "speciesId": "nashi_pear",
+      "cultivarId": null
+    },
+    {
+      "id": "490cb28e-c98e-43b2-9d67-355af9c0e3a4",
+      "speciesId": "apple",
+      "cultivarId": "carmeliter_reinette"
+    },
+    {
+      "id": "1698cfde-6bed-468a-9f6f-00181631590f",
+      "speciesId": "blackberry",
+      "cultivarId": "loch_ness"
+    },
+    {
+      "id": "eec68a22-d6f4-41a5-8f46-17a51c37d75f",
+      "speciesId": "pear",
+      "cultivarId": null
+    },
+    {
+      "id": "69b20917-5303-41b0-8144-443413bf825b",
+      "speciesId": "elderberry",
+      "cultivarId": null
+    },
+    {
+      "id": "c4517b69-3293-48cd-bae0-a400a056a36b",
+      "speciesId": "asparagus",
+      "cultivarId": null
+    },
+    {
+      "id": "62122a44-5f79-4317-9964-041794141023",
+      "speciesId": "pole_bean",
+      "cultivarId": null
+    },
+    {
+      "id": "1e8294ae-a09b-433c-8588-99b8a127e455",
+      "speciesId": "dianthus",
+      "cultivarId": "garden_pink"
     }
   ]
 }
