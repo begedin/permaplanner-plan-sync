@@ -30,6 +30,19 @@
         padding: 0.75rem;
         margin: 0.75rem 0;
       }
+      .raw {
+        white-space: pre-wrap;
+        word-break: break-word;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 0.75rem;
+        line-height: 1.4;
+        color: #1f2937;
+        background: #f8fafc;
+        border: 1px solid #e5e7eb;
+        border-radius: 0.375rem;
+        padding: 0.625rem;
+        margin-top: 0.5rem;
+      }
       .name {
         font-weight: 600;
       }
@@ -52,12 +65,17 @@
       <h1>Permaplanner Guilds</h1>
       <p id="source" class="meta"></p>
       <div id="status" class="meta"></div>
+      <details class="card">
+        <summary class="name">Raw guilds payload</summary>
+        <pre id="rawPayload" class="raw"></pre>
+      </details>
       <section id="guilds"></section>
     </main>
     <script>
       const sourceEl = document.getElementById('source');
       const statusEl = document.getElementById('status');
       const guildsEl = document.getElementById('guilds');
+      const rawPayloadEl = document.getElementById('rawPayload');
 
       const renderError = (message) => {
         statusEl.textContent = message;
@@ -66,6 +84,16 @@
 
       const params = new URLSearchParams(window.location.search);
       const guildsPath = params.get('guilds') || '';
+      const asGuildArray = (json) => {
+        if (Array.isArray(json)) {
+          return json;
+        }
+        if (Array.isArray(json?.guilds)) {
+          return json.guilds;
+        }
+        return [];
+      };
+
       if (!guildsPath) {
         renderError('Missing query param: guilds');
       } else {
@@ -78,15 +106,17 @@
             return res.json();
           })
           .then((json) => {
-            const guilds = Array.isArray(json?.guilds) ? json.guilds : [];
+            rawPayloadEl.textContent = JSON.stringify(json, null, 2);
+            const guilds = asGuildArray(json);
             statusEl.textContent = 'Guilds: ' + guilds.length;
-            guilds.forEach((guild) => {
+            guilds.forEach((guild, index) => {
               const card = document.createElement('article');
               card.className = 'card';
 
               const name = document.createElement('div');
               name.className = 'name';
-              name.textContent = guild?.name || '(unnamed guild)';
+              name.textContent =
+                (guild?.name || '(unnamed guild)') + ' (#' + String(index + 1) + ')';
               card.appendChild(name);
 
               const plantCount = Array.isArray(guild?.plants) ? guild.plants.length : 0;
@@ -94,6 +124,11 @@
               meta.className = 'meta';
               meta.textContent = 'Plants: ' + plantCount + ' · ID: ' + (guild?.id || 'n/a');
               card.appendChild(meta);
+
+              const guildRaw = document.createElement('pre');
+              guildRaw.className = 'raw';
+              guildRaw.textContent = JSON.stringify(guild, null, 2);
+              card.appendChild(guildRaw);
 
               guildsEl.appendChild(card);
             });
