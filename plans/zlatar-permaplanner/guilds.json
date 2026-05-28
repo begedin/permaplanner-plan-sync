@@ -884,42 +884,71 @@
           "id": "e0d968d6-9528-4c13-be0b-7d07f2652c47",
           "name": "Apple",
           "plantId": "490cb28e-c98e-43b2-9d67-355af9c0e3a4",
-          "growthPhase": "established"
+          "growthPhase": "established",
+          "vigor": 3
         },
         {
           "id": "7463d163-e94a-425f-9b2d-7b263902269e",
           "name": "Ribwort (narrow-leaf)",
-          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b"
+          "plantId": "e4b943a1-a9dc-4d5b-9519-866ce76c7b5b",
+          "growthPhase": "established",
+          "vigor": 3
         },
         {
           "id": "5fdb36dd-b178-407f-99ad-b67c0c3693ba",
           "name": "Blackberry",
-          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f"
+          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
+          "growthPhase": "producing",
+          "vigor": 4
         },
         {
           "id": "96ee5e8e-dc66-4217-95f4-ed0261634f7e",
           "name": "Blackberry",
-          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f"
+          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
+          "growthPhase": "established",
+          "vigor": 3
         },
         {
           "id": "35e417b9-d99c-40a1-98ca-28b394fc769c",
           "name": "Blackberry",
-          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f"
+          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
+          "growthPhase": "established",
+          "vigor": 3
         },
         {
           "id": "4ed683ff-803d-4ee8-b831-82ca5cbff6f3",
           "name": "Creeping (mother of thyme)",
-          "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996"
+          "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996",
+          "growthPhase": "transplanted",
+          "vigor": 2
         },
         {
           "id": "8f94812a-3ee2-455b-bb98-b1afb79a7c75",
           "name": "Rosemary",
-          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e"
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "954abc56-1e97-4a78-ab29-8cc8ad50ca0f",
           "name": "Rosemary",
-          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e"
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
+          "growthPhase": "transplanted",
+          "vigor": 3
+        },
+        {
+          "id": "9f8c2bf1-4698-4170-8d9a-a8d85be032a9",
+          "name": "Plant",
+          "plantId": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
+          "growthPhase": "transplanted",
+          "vigor": 2
+        },
+        {
+          "id": "7e18b009-58fc-424d-9420-a525deed7319",
+          "name": "Sweet potato",
+          "plantId": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
+          "growthPhase": "transplanted",
+          "vigor": 2
         }
       ]
     },
@@ -3637,6 +3666,20 @@
         },
         {
           "id": "954abc56-1e97-4a78-ab29-8cc8ad50ca0f",
+          "x": 529.8543689320388,
+          "y": 619.9174188918367,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "9f8c2bf1-4698-4170-8d9a-a8d85be032a9",
+          "x": 529.8543689320388,
+          "y": 619.9174188918367,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "7e18b009-58fc-424d-9420-a525deed7319",
           "x": 529.8543689320388,
           "y": 619.9174188918367,
           "width": 16,

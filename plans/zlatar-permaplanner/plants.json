@@ -400,6 +400,11 @@
       "id": "1e8294ae-a09b-433c-8588-99b8a127e455",
       "speciesId": "dianthus",
       "cultivarId": "garden_pink"
+    },
+    {
+      "id": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
+      "speciesId": "sweet_potato",
+      "cultivarId": null
     }
   ]
 }
