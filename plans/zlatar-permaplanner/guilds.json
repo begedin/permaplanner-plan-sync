@@ -38,12 +38,12 @@
         },
         {
           "id": "9045a9f2-baeb-4aa7-aba7-aa010fe26334",
-          "name": "Plant",
+          "name": "Sweet William",
           "plantId": "b55eb666-3f93-4f1f-891e-e2a2b4034f15"
         },
         {
           "id": "1995041a-245a-4b05-a75d-6ac644b03b13",
-          "name": "Plant",
+          "name": "Carpathian bellflower",
           "plantId": "290e85d9-fdda-4afb-a673-07bad480381e"
         },
         {
@@ -65,7 +65,7 @@
         },
         {
           "id": "0ba04b8f-07f0-4c10-b299-3105e21797ed",
-          "name": "Plant",
+          "name": "Common",
           "plantId": "50f3c3b2-8245-48b8-9232-b1bac25102f5"
         },
         {
@@ -97,14 +97,14 @@
       "plants": [
         {
           "id": "0e4bb2d6-dbe4-4f4a-bd7d-4ecd66796f11",
-          "name": "Plant",
+          "name": "Persimmon",
           "plantId": "25abbbc7-8bcd-49d5-982f-66894e95db79",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "cf89ccc5-f472-4d97-9f3f-127b43d5baff",
-          "name": "Plant",
+          "name": "Yamlina (raspberry–strawberry)",
           "plantId": "063f1d51-510d-4013-a936-f86b69133aac",
           "growthPhase": "young",
           "vigor": 2
@@ -180,12 +180,12 @@
         },
         {
           "id": "4c3938f0-f11b-45cb-baec-c60f03ef229c",
-          "name": "Plant",
+          "name": "Garden pink",
           "plantId": "1e8294ae-a09b-433c-8588-99b8a127e455"
         },
         {
           "id": "fead67f7-a305-4efa-ba76-3d7f0164b67b",
-          "name": "Plant",
+          "name": "Garden pink",
           "plantId": "1e8294ae-a09b-433c-8588-99b8a127e455"
         }
       ]
@@ -330,7 +330,7 @@
         },
         {
           "id": "68ee37a8-494f-4b47-afdc-5e20f85c069a",
-          "name": "Plant",
+          "name": "Goumi",
           "plantId": "e7512c5a-8daf-49d4-931d-89348f54ace4",
           "growthPhase": "transplanted",
           "vigor": 3
@@ -386,7 +386,7 @@
         },
         {
           "id": "231245b0-3e88-4c43-b765-73d6b652e701",
-          "name": "Prostratus",
+          "name": "Prostratus (prostrate)",
           "plantId": "b49bf047-97c8-4205-8e74-e939714fe0e7"
         }
       ]
@@ -408,12 +408,12 @@
         },
         {
           "id": "530a57ba-57f4-453e-943f-5c91f89f3a52",
-          "name": "Plant",
+          "name": "Larkspur",
           "plantId": "3fa4892a-c7cd-49c2-b686-ab180b9df74b"
         },
         {
           "id": "fef317d0-9da5-4d29-b369-35fa67a4605a",
-          "name": "Apricot",
+          "name": "Aprisali",
           "plantId": "ffc8e895-f697-42be-a56a-d1b9d904080f"
         }
       ]
@@ -437,12 +437,12 @@
       "plants": [
         {
           "id": "4463bfab-6fdc-4e87-a1f0-7c126cc3e793",
-          "name": "Sweet cherry",
+          "name": "New Star",
           "plantId": "ddcdbc2e-251f-432b-8be9-6377ae8fbaaf"
         },
         {
           "id": "2f7635c9-dddc-40d7-89e0-224a0a4cd566",
-          "name": "Plant",
+          "name": "Multimentha (peppermint)",
           "plantId": "89c210d8-efe8-4b26-8ad9-e7730e2ffb7a"
         }
       ]
@@ -514,7 +514,7 @@
         },
         {
           "id": "bfeff623-1aa0-4331-a163-ce3f19392f41",
-          "name": "Plant",
+          "name": "Venezia",
           "plantId": "c98b7e86-174a-4aa6-abdf-dfb2fcd07dca"
         },
         {
@@ -531,7 +531,7 @@
       "plants": [
         {
           "id": "66d37924-ed75-4138-a6ea-922e4fbaf9e4",
-          "name": "Hazelnut",
+          "name": "Tonda Romana",
           "plantId": "2985ee09-a7a2-4099-adcb-29ecba5c460e"
         }
       ]
@@ -543,17 +543,17 @@
       "plants": [
         {
           "id": "9cb1985f-9c71-4e31-abd0-ecab312f88a2",
-          "name": "Sweet cherry",
+          "name": "From seed (not grafted)",
           "plantId": "692b7f57-ec8b-4f71-acd5-aabc034de40c"
         },
         {
           "id": "8d2bc8fe-7409-4b96-a249-b6ee6816f1f3",
-          "name": "Sweet cherry",
+          "name": "From seed (not grafted)",
           "plantId": "692b7f57-ec8b-4f71-acd5-aabc034de40c"
         },
         {
           "id": "8b180c09-76e8-479c-8428-0d93873269ba",
-          "name": "Hazelnut",
+          "name": "From seed (not grafted)",
           "plantId": "6ef0da72-f4be-4745-b7da-a708d005e954"
         },
         {
@@ -580,7 +580,7 @@
         },
         {
           "id": "db6b235f-d830-4a0d-97ae-bacc68e428a3",
-          "name": "Hazelnut",
+          "name": "Tonda Romana",
           "plantId": "2985ee09-a7a2-4099-adcb-29ecba5c460e"
         },
         {
@@ -600,7 +600,7 @@
         },
         {
           "id": "653205cf-8302-4c49-a2bc-ca57e6794539",
-          "name": "Plant",
+          "name": "Japanese maple",
           "plantId": "ef136b9d-1102-434d-a913-bb105c7e5b73"
         },
         {
@@ -617,7 +617,7 @@
       "plants": [
         {
           "id": "3c29263c-431f-4c8f-93b1-1e7c8cab5194",
-          "name": "Sweet cherry",
+          "name": "Yellow Drogan",
           "plantId": "bcfa33a8-1966-44a8-960d-8c094fdf8ea9"
         },
         {
@@ -627,7 +627,7 @@
         },
         {
           "id": "1c234b56-3f03-444d-b048-0c03fc27ffab",
-          "name": "Plum",
+          "name": "California Blue",
           "plantId": "f958276a-f439-48d9-b044-1f28b51be6a9"
         },
         {
@@ -652,7 +652,7 @@
         },
         {
           "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
-          "name": "Plant",
+          "name": "Sage",
           "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864"
         },
         {
@@ -699,7 +699,7 @@
         },
         {
           "id": "21e22155-3218-49f6-985b-ae99dafbf923",
-          "name": "Plant",
+          "name": "Black mulberry",
           "plantId": "81cdac9f-d24b-48fe-a8fd-f6b9b16f3af4"
         }
       ]
@@ -711,12 +711,12 @@
       "plants": [
         {
           "id": "063cf8a6-5711-4a0d-a670-f8dccb3a6a54",
-          "name": "Apple",
+          "name": "Francuska kožarka (French russet)",
           "plantId": "b0750d65-c7a6-4f83-987a-bc085a3aa731"
         },
         {
           "id": "c59e0eca-ba57-4e7a-a4bc-9661b655fd62",
-          "name": "Apricot",
+          "name": "Korai piros (Early red)",
           "plantId": "0ec1c225-8389-4226-8873-c412835a0fad"
         },
         {
@@ -746,7 +746,7 @@
         },
         {
           "id": "f0e0b4e4-d1e6-4234-a205-544ec2535632",
-          "name": "Plant",
+          "name": "Naples garlic (Allium neapolitanum)",
           "plantId": "50daca98-d216-484f-9724-9fc497204679"
         }
       ]
@@ -758,7 +758,7 @@
       "plants": [
         {
           "id": "aff6f8e9-9d90-43f0-b46a-df24d7ebe1d0",
-          "name": "Apple",
+          "name": "Amaty",
           "plantId": "36f9cff9-a385-4555-bfd2-d866d9a52223"
         },
         {
@@ -882,7 +882,7 @@
       "plants": [
         {
           "id": "e0d968d6-9528-4c13-be0b-7d07f2652c47",
-          "name": "Apple",
+          "name": "Carmeliter Reinette",
           "plantId": "490cb28e-c98e-43b2-9d67-355af9c0e3a4",
           "growthPhase": "established",
           "vigor": 3
@@ -896,21 +896,21 @@
         },
         {
           "id": "5fdb36dd-b178-407f-99ad-b67c0c3693ba",
-          "name": "Blackberry",
+          "name": "Loch Ness",
           "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
           "growthPhase": "producing",
           "vigor": 4
         },
         {
           "id": "96ee5e8e-dc66-4217-95f4-ed0261634f7e",
-          "name": "Blackberry",
+          "name": "Loch Ness",
           "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "35e417b9-d99c-40a1-98ca-28b394fc769c",
-          "name": "Blackberry",
+          "name": "Loch Ness",
           "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
           "growthPhase": "established",
           "vigor": 3
@@ -938,7 +938,7 @@
         },
         {
           "id": "9f8c2bf1-4698-4170-8d9a-a8d85be032a9",
-          "name": "Plant",
+          "name": "Sweet potato",
           "plantId": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
           "growthPhase": "transplanted",
           "vigor": 2
@@ -959,7 +959,7 @@
       "plants": [
         {
           "id": "87c005bb-3d67-48b3-a9cb-6d45d6934e7d",
-          "name": "Plant",
+          "name": "Elderberry",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
