@@ -877,12 +877,14 @@
     {
       "id": "d9104bf4-2cb0-41db-a01c-49ba62f1e6d9",
       "name": "Karmelitska Reneta i Kupine",
-      "mulchLevel": 1,
+      "mulchLevel": 3,
+      "note": "The apple is extremely tall and I had to add scaffolding, as it has 4-5 fruits right at the top.",
       "plants": [
         {
           "id": "e0d968d6-9528-4c13-be0b-7d07f2652c47",
           "name": "Apple",
-          "plantId": "490cb28e-c98e-43b2-9d67-355af9c0e3a4"
+          "plantId": "490cb28e-c98e-43b2-9d67-355af9c0e3a4",
+          "growthPhase": "established"
         },
         {
           "id": "7463d163-e94a-425f-9b2d-7b263902269e",
@@ -903,6 +905,21 @@
           "id": "35e417b9-d99c-40a1-98ca-28b394fc769c",
           "name": "Blackberry",
           "plantId": "1698cfde-6bed-468a-9f6f-00181631590f"
+        },
+        {
+          "id": "4ed683ff-803d-4ee8-b831-82ca5cbff6f3",
+          "name": "Creeping (mother of thyme)",
+          "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996"
+        },
+        {
+          "id": "8f94812a-3ee2-455b-bb98-b1afb79a7c75",
+          "name": "Rosemary",
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e"
+        },
+        {
+          "id": "954abc56-1e97-4a78-ab29-8cc8ad50ca0f",
+          "name": "Rosemary",
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e"
         }
       ]
     },
@@ -914,57 +931,79 @@
         {
           "id": "87c005bb-3d67-48b3-a9cb-6d45d6934e7d",
           "name": "Plant",
-          "plantId": "69b20917-5303-41b0-8144-443413bf825b"
+          "plantId": "69b20917-5303-41b0-8144-443413bf825b",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "09f100e7-69bf-45bc-9ac3-4a5fa217066b",
           "name": "Asparagus",
-          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b"
+          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
+          "growthPhase": "sown",
+          "vigor": 2
         },
         {
           "id": "4d5ad618-abdd-4b7e-9727-d6ad26481f92",
           "name": "Pole bean",
-          "plantId": "62122a44-5f79-4317-9964-041794141023"
+          "plantId": "62122a44-5f79-4317-9964-041794141023",
+          "growthPhase": "young",
+          "vigor": 2
         },
         {
           "id": "4d7728ca-a4e8-417c-bb12-9994eada731d",
           "name": "Asparagus",
-          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b"
+          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
+          "growthPhase": "sown",
+          "vigor": 2
         },
         {
           "id": "a0db2be4-217c-400b-9e56-1976b6664d46",
           "name": "Asparagus",
-          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b"
+          "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
+          "growthPhase": "sown",
+          "vigor": 2
         },
         {
           "id": "3e4f46f3-14e9-4036-8a0a-f498ebcac449",
           "name": "Elderberry",
-          "plantId": "69b20917-5303-41b0-8144-443413bf825b"
+          "plantId": "69b20917-5303-41b0-8144-443413bf825b",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "5730bd72-1cd6-4bd8-99ec-2aed5b432694",
           "name": "Elderberry",
-          "plantId": "69b20917-5303-41b0-8144-443413bf825b"
+          "plantId": "69b20917-5303-41b0-8144-443413bf825b",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "0345f774-60d3-4079-acc5-c72a661105e8",
           "name": "Elderberry",
-          "plantId": "69b20917-5303-41b0-8144-443413bf825b"
+          "plantId": "69b20917-5303-41b0-8144-443413bf825b",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "5207a04d-0dba-4a4f-9ec5-c59823ebe869",
           "name": "Elderberry",
-          "plantId": "69b20917-5303-41b0-8144-443413bf825b"
+          "plantId": "69b20917-5303-41b0-8144-443413bf825b",
+          "growthPhase": "transplanted",
+          "vigor": 3
         },
         {
           "id": "997c89dc-9df0-49a4-8344-23faf37f4521",
           "name": "Pole bean",
-          "plantId": "62122a44-5f79-4317-9964-041794141023"
+          "plantId": "62122a44-5f79-4317-9964-041794141023",
+          "growthPhase": "young",
+          "vigor": 2
         },
         {
           "id": "9b818909-e7e7-4c9f-80c4-706136891069",
           "name": "Pole bean",
-          "plantId": "62122a44-5f79-4317-9964-041794141023"
+          "plantId": "62122a44-5f79-4317-9964-041794141023",
+          "growthPhase": "young",
+          "vigor": 2
         }
       ]
     },
@@ -3579,6 +3618,27 @@
           "id": "35e417b9-d99c-40a1-98ca-28b394fc769c",
           "x": 5,
           "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "4ed683ff-803d-4ee8-b831-82ca5cbff6f3",
+          "x": 529.8543689320388,
+          "y": 619.9174188918367,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "8f94812a-3ee2-455b-bb98-b1afb79a7c75",
+          "x": 529.8543689320388,
+          "y": 619.9174188918367,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "954abc56-1e97-4a78-ab29-8cc8ad50ca0f",
+          "x": 529.8543689320388,
+          "y": 619.9174188918367,
           "width": 16,
           "height": 16
         }
