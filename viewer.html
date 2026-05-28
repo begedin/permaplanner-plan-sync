@@ -2,13 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
     <title>Permaplanner Guilds Viewer</title>
     <style>
       body {
         margin: 0;
         padding: 1rem;
-        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+        font-family:
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          Segoe UI,
+          Roboto,
+          Helvetica,
+          Arial,
+          sans-serif;
         color: #111827;
         background: #f9fafb;
       }
@@ -52,18 +63,19 @@
       .error {
         color: #b91c1c;
       }
-      code {
-        background: #f3f4f6;
-        padding: 0.125rem 0.25rem;
-        border-radius: 0.25rem;
-      }
     </style>
   </head>
   <body>
     <main>
       <h1>Permaplanner Guilds</h1>
-      <p id="source" class="meta"></p>
-      <div id="status" class="meta"></div>
+      <p
+        id="source"
+        class="meta"
+      ></p>
+      <div
+        id="status"
+        class="meta"
+      ></div>
       <section id="guilds"></section>
     </main>
     <script>
@@ -103,6 +115,18 @@
         }
         return [];
       };
+      const plantNameText = (plant) => {
+        if (typeof plant?.name === 'string' && plant.name.trim()) {
+          return plant.name.trim();
+        }
+        if (typeof plant?.nameOrCultivar === 'string' && plant.nameOrCultivar.trim()) {
+          return plant.nameOrCultivar.trim();
+        }
+        if (typeof plant?.plantId === 'string' && plant.plantId.trim()) {
+          return plant.plantId.trim();
+        }
+        return '(unknown plant)';
+      };
       const plantConditionText = (plant) => {
         const numeric = Number(plant?.vigor);
         const normalized = Number.isFinite(numeric) ? Math.round(numeric) : null;
@@ -122,6 +146,31 @@
           return plant.stage.trim();
         }
         return 'unknown';
+      };
+      const guildPlainText = (guild) => {
+        const lines = [];
+        lines.push(guild?.name || '(unnamed guild)');
+        lines.push('');
+        lines.push('- plants:');
+        if (Array.isArray(guild?.plants) && guild.plants.length > 0) {
+          guild.plants.forEach((plant) => {
+            lines.push('  - ' + plantNameText(plant));
+            lines.push('    - condition: ' + plantConditionText(plant));
+            lines.push('    - stage: ' + plantStageText(plant));
+          });
+        } else {
+          lines.push('  - (none)');
+        }
+        const mulchLevel = Number.isFinite(Number(guild?.mulchLevel))
+          ? Math.max(1, Math.min(5, Math.round(Number(guild.mulchLevel))))
+          : 1;
+        lines.push('- mulch level: ' + String(mulchLevel) + '/5');
+        const note =
+          typeof guild?.note === 'string' && guild.note.trim()
+            ? guild.note.trim()
+            : '(none)';
+        lines.push('- note: ' + note);
+        return lines.join('\n');
       };
 
       if (!guildsPath) {
@@ -151,36 +200,13 @@
               const plantCount = Array.isArray(guild?.plants) ? guild.plants.length : 0;
               const meta = document.createElement('div');
               meta.className = 'meta';
-              meta.textContent = 'Plants: ' + plantCount + ' · ID: ' + (guild?.id || 'n/a');
+              meta.textContent =
+                'Plants: ' + plantCount + ' · ID: ' + (guild?.id || 'n/a');
               card.appendChild(meta);
 
               const guildText = document.createElement('pre');
               guildText.className = 'plain';
-              const lines = [];
-              lines.push(guild?.name || '(unnamed guild)');
-              lines.push('');
-              lines.push('- plants:');
-              if (Array.isArray(guild?.plants) && guild.plants.length > 0) {
-                guild.plants.forEach((plant) => {
-                  const plantName = plant?.nameOrCultivar || plant?.plantId || '(unknown plant)';
-                  lines.push('  - ' + plantName);
-                  lines.push('    - condition: ' + plantConditionText(plant));
-                  lines.push('    - stage: ' + plantStageText(plant));
-                });
-              } else {
-                lines.push('  - (none)');
-              }
-              const mulchLevel = Number.isFinite(Number(guild?.mulchLevel))
-                ? Math.max(1, Math.min(5, Math.round(Number(guild.mulchLevel))))
-                : 1;
-              lines.push('- mulch level: ' + String(mulchLevel) + '/5');
-              const note =
-                typeof guild?.note === 'string' && guild.note.trim()
-                  ? guild.note.trim()
-                  : '(none)';
-              lines.push('- note: ' + note);
-              guildText.textContent = lines.join('
-');
+              guildText.textContent = guildPlainText(guild);
               card.appendChild(guildText);
 
               guildsEl.appendChild(card);
