@@ -111,8 +111,8 @@
         },
         {
           "id": "22eb68bb-dbb3-4288-b66f-44367aa855c5",
-          "name": "Gooseberry",
-          "plantId": "d4bc4262-5b2a-451f-8cf4-707cc2e6748d",
+          "name": "Invicta",
+          "plantId": "b747ba45-31e5-41d8-a684-0eba80d287ee",
           "growthPhase": "young",
           "vigor": 4
         },
@@ -341,6 +341,11 @@
           "plantId": "comfrey",
           "growthPhase": "transplanted",
           "vigor": 2
+        },
+        {
+          "id": "43737590-87fc-4549-a12b-3068a14e754c",
+          "name": "Strawberry",
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         }
       ]
     },
@@ -614,56 +619,77 @@
       "id": "c1b33c82-f324-4013-ba9e-3faf3e94b161",
       "name": "Old Mix 2",
       "mulchLevel": 1,
+      "note": "the peach, unknown cultivar, actually died out and a new branch started growing bellow the cut",
       "plants": [
         {
           "id": "3c29263c-431f-4c8f-93b1-1e7c8cab5194",
-          "name": "Yellow Drogan",
-          "plantId": "bcfa33a8-1966-44a8-960d-8c094fdf8ea9"
+          "name": "Drogana Yellow",
+          "plantId": "bcfa33a8-1966-44a8-960d-8c094fdf8ea9",
+          "growthPhase": "established",
+          "vigor": 3
         },
         {
           "id": "0e809b32-c5c6-4f28-938e-cdfe71741ca7",
           "name": "Rosemary",
-          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e"
+          "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
+          "growthPhase": "producing",
+          "vigor": 3
         },
         {
           "id": "1c234b56-3f03-444d-b048-0c03fc27ffab",
           "name": "California Blue",
-          "plantId": "f958276a-f439-48d9-b044-1f28b51be6a9"
+          "plantId": "f958276a-f439-48d9-b044-1f28b51be6a9",
+          "growthPhase": "established",
+          "vigor": 4
         },
         {
           "id": "37e14a8f-7c40-450b-8381-9f5bc7dd3ecb",
           "name": "Strawberry",
-          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "growthPhase": "producing",
+          "vigor": 4
         },
         {
           "id": "e5491f94-222e-4ee4-adf7-c27ee44b0711",
           "name": "Strawberry",
-          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "growthPhase": "producing",
+          "vigor": 4
         },
         {
           "id": "70a3692a-bf16-4d4b-90f7-558057ad5438",
           "name": "Strawberry",
-          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
+          "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
+          "growthPhase": "producing",
+          "vigor": 4
         },
         {
           "id": "27547c65-2431-41a6-a66a-b048d1e9530e",
-          "name": "Gooseberry",
-          "plantId": "d4bc4262-5b2a-451f-8cf4-707cc2e6748d"
+          "name": "Invicta",
+          "plantId": "b747ba45-31e5-41d8-a684-0eba80d287ee",
+          "growthPhase": "established",
+          "vigor": 4
         },
         {
           "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
           "name": "Sage",
-          "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864"
+          "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864",
+          "growthPhase": "established",
+          "vigor": 4
         },
         {
           "id": "7d9e0cdb-ae01-4bc3-955f-e3870e4b283c",
           "name": "Peach",
-          "plantId": "6d28496d-1b99-4ddf-963a-08e75f82e244"
+          "plantId": "6d28496d-1b99-4ddf-963a-08e75f82e244",
+          "growthPhase": "established",
+          "vigor": 2
         },
         {
           "id": "604ddfab-ab71-4f12-920f-0720c0ac810e",
           "name": "Haskap",
-          "plantId": "haskap"
+          "plantId": "haskap",
+          "growthPhase": "established",
+          "vigor": 1
         }
       ]
     },
@@ -1867,6 +1893,13 @@
         },
         {
           "id": "2e332362-4d66-4374-8b77-0a3861ee5ca2",
+          "x": 754.7864077669902,
+          "y": 692.6504854368932,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "43737590-87fc-4549-a12b-3068a14e754c",
           "x": 754.7864077669902,
           "y": 692.6504854368932,
           "width": 16,

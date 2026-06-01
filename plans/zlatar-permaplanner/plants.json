@@ -405,6 +405,11 @@
       "id": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
       "speciesId": "sweet_potato",
       "cultivarId": null
+    },
+    {
+      "id": "b747ba45-31e5-41d8-a684-0eba80d287ee",
+      "speciesId": "gooseberry",
+      "cultivarId": "invicta"
     }
   ]
 }
