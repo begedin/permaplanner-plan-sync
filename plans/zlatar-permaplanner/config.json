@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "syncRevision": 33,
   "mapScale": {
     "start": {
@@ -13,5 +13,6 @@
     "linePhysicalLength": 86
   },
   "backgroundOpacity": 0.39,
+  "onboardingState": "done",
   "backgroundImagePath": "plans/zlatar-permaplanner/background.png"
 }
