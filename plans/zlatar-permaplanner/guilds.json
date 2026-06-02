@@ -55,7 +55,7 @@
     },
     {
       "id": "87b13b65-3927-40f3-a1dc-2a254e735aa2",
-      "name": "Morettini Pea",
+      "name": "Morettini Pear",
       "mulchLevel": 3,
       "plants": [
         {
@@ -86,7 +86,8 @@
         {
           "id": "d9f81f1b-2c79-4733-8d0b-6225f9adb7c5",
           "name": "Morettini",
-          "plantId": "333ca36a-0dd1-4078-ab2f-1373902682c7"
+          "plantId": "333ca36a-0dd1-4078-ab2f-1373902682c7",
+          "vigor": 2
         }
       ]
     },
