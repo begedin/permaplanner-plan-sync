@@ -410,6 +410,11 @@
       "id": "b747ba45-31e5-41d8-a684-0eba80d287ee",
       "speciesId": "gooseberry",
       "cultivarId": "invicta"
+    },
+    {
+      "id": "b0521732-070a-4ddb-8abc-2e8643becb52",
+      "speciesId": "leaf_celery",
+      "cultivarId": "par_cel"
     }
   ]
 }
