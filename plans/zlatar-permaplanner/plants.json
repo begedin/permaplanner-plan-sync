@@ -435,6 +435,11 @@
       "id": "e6961a05-6a61-4aca-b4f0-41bc85031862",
       "speciesId": "tagetes",
       "cultivarId": "orange_flame"
+    },
+    {
+      "id": "662276d8-22bf-4da5-9b81-f0be06ff0407",
+      "speciesId": "lambs_lettuce",
+      "cultivarId": "common"
     }
   ]
 }
