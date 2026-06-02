@@ -445,6 +445,11 @@
       "id": "75d092bd-e977-4eaf-a1f1-0c46d6946471",
       "speciesId": "calendula",
       "cultivarId": "geisha_girl"
+    },
+    {
+      "id": "c2aaf3bb-36b2-47f9-ad65-d28dda051d39",
+      "speciesId": "dichondra_repens",
+      "cultivarId": "common"
     }
   ]
 }
