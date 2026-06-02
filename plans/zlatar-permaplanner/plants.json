@@ -415,6 +415,16 @@
       "id": "b0521732-070a-4ddb-8abc-2e8643becb52",
       "speciesId": "leaf_celery",
       "cultivarId": "par_cel"
+    },
+    {
+      "id": "0120c14f-5cec-4f6f-823b-d43ba0088dde",
+      "speciesId": "swiss_chard",
+      "cultivarId": "rhubarb_chard"
+    },
+    {
+      "id": "c479a5a6-d98d-4e75-acfb-98cdd3da89ef",
+      "speciesId": "white_willow",
+      "cultivarId": "common"
     }
   ]
 }

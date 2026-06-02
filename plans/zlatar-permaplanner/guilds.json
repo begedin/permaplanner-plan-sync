@@ -1063,7 +1063,14 @@
         {
           "id": "85531555-56c0-4fff-8275-ec43998fe940",
           "name": "Par-Cel",
-          "plantId": "b0521732-070a-4ddb-8abc-2e8643becb52"
+          "plantId": "b0521732-070a-4ddb-8abc-2e8643becb52",
+          "growthPhase": "sown"
+        },
+        {
+          "id": "602d1dae-2360-4f75-a713-a5e2b759130a",
+          "name": "Rhubarb Chard",
+          "plantId": "0120c14f-5cec-4f6f-823b-d43ba0088dde",
+          "growthPhase": "sown"
         }
       ]
     },
@@ -1134,6 +1141,18 @@
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "young",
           "vigor": 2
+        }
+      ]
+    },
+    {
+      "id": "f068e470-d758-4df9-9002-0bc064345b0b",
+      "name": "Volunteer WIllow",
+      "mulchLevel": 3,
+      "plants": [
+        {
+          "id": "51f03220-b53f-4438-999e-b6fca5a23c1d",
+          "name": "Common",
+          "plantId": "c479a5a6-d98d-4e75-acfb-98cdd3da89ef"
         }
       ]
     }
@@ -3865,6 +3884,13 @@
           "y": 218.46847710436322,
           "width": 16,
           "height": 16
+        },
+        {
+          "id": "602d1dae-2360-4f75-a713-a5e2b759130a",
+          "x": 817.439123071853,
+          "y": 218.46847710436322,
+          "width": 16,
+          "height": 16
         }
       ]
     },
@@ -3983,6 +4009,19 @@
         },
         {
           "id": "3ed48d82-3a3e-452b-836e-7af89c5d6451",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "id": "f068e470-d758-4df9-9002-0bc064345b0b",
+      "path": [],
+      "plants": [
+        {
+          "id": "51f03220-b53f-4438-999e-b6fca5a23c1d",
           "x": 5,
           "y": 5,
           "width": 16,
