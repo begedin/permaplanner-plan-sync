@@ -1152,7 +1152,15 @@
         {
           "id": "51f03220-b53f-4438-999e-b6fca5a23c1d",
           "name": "Common",
-          "plantId": "c479a5a6-d98d-4e75-acfb-98cdd3da89ef"
+          "plantId": "c479a5a6-d98d-4e75-acfb-98cdd3da89ef",
+          "growthPhase": "transplanted",
+          "vigor": 2
+        },
+        {
+          "id": "16e8d4c6-e021-46f2-9f33-6541c678f856",
+          "name": "Common",
+          "plantId": "087e16a4-83f4-42c5-af89-f54ca08b68bf",
+          "growthPhase": "sown"
         }
       ]
     }
@@ -4022,6 +4030,13 @@
       "plants": [
         {
           "id": "51f03220-b53f-4438-999e-b6fca5a23c1d",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "16e8d4c6-e021-46f2-9f33-6541c678f856",
           "x": 5,
           "y": 5,
           "width": 16,

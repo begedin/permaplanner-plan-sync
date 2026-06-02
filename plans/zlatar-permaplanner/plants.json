@@ -425,6 +425,11 @@
       "id": "c479a5a6-d98d-4e75-acfb-98cdd3da89ef",
       "speciesId": "white_willow",
       "cultivarId": "common"
+    },
+    {
+      "id": "087e16a4-83f4-42c5-af89-f54ca08b68bf",
+      "speciesId": "wild_rocket",
+      "cultivarId": "common"
     }
   ]
 }
