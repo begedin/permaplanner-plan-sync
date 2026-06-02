@@ -1188,6 +1188,13 @@
           "name": "Common",
           "plantId": "662276d8-22bf-4da5-9b81-f0be06ff0407",
           "growthPhase": "sown"
+        },
+        {
+          "id": "49b1dc62-5504-4a16-b0a4-8eaf1f7c6180",
+          "name": "Geisha Girl",
+          "plantId": "75d092bd-e977-4eaf-a1f1-0c46d6946471",
+          "growthPhase": "transplanted",
+          "vigor": 2
         }
       ]
     }
@@ -4274,6 +4281,13 @@
           "id": "2dd276ea-1aac-4f2e-a9a0-e0a40e53bba0",
           "x": 5,
           "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "49b1dc62-5504-4a16-b0a4-8eaf1f7c6180",
+          "x": 877.1593517893316,
+          "y": 1460.548953409858,
           "width": 16,
           "height": 16
         }

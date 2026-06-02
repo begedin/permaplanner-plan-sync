@@ -440,6 +440,11 @@
       "id": "662276d8-22bf-4da5-9b81-f0be06ff0407",
       "speciesId": "lambs_lettuce",
       "cultivarId": "common"
+    },
+    {
+      "id": "75d092bd-e977-4eaf-a1f1-0c46d6946471",
+      "speciesId": "calendula",
+      "cultivarId": "geisha_girl"
     }
   ]
 }
