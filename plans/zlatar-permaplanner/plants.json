@@ -450,6 +450,11 @@
       "id": "c2aaf3bb-36b2-47f9-ad65-d28dda051d39",
       "speciesId": "dichondra_repens",
       "cultivarId": "common"
+    },
+    {
+      "id": "be52da4a-a008-4f42-97f7-77c657801ed5",
+      "speciesId": "globe_artichoke",
+      "cultivarId": "green_globe"
     }
   ]
 }

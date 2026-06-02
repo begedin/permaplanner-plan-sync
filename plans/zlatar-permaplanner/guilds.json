@@ -782,6 +782,20 @@
           "id": "f0e0b4e4-d1e6-4234-a205-544ec2535632",
           "name": "Naples garlic (Allium neapolitanum)",
           "plantId": "50daca98-d216-484f-9724-9fc497204679"
+        },
+        {
+          "id": "8f9ad67c-5052-4a14-a16c-8fd2257c9a8c",
+          "name": "Green Globe",
+          "plantId": "be52da4a-a008-4f42-97f7-77c657801ed5",
+          "growthPhase": "transplanted",
+          "vigor": 2
+        },
+        {
+          "id": "a1d86516-0434-4856-80d3-e732a30fd251",
+          "name": "Green Globe",
+          "plantId": "be52da4a-a008-4f42-97f7-77c657801ed5",
+          "growthPhase": "transplanted",
+          "vigor": 2
         }
       ]
     },
@@ -909,7 +923,8 @@
         {
           "id": "8b5741e0-7929-48c4-a3a0-996a1d7818aa",
           "name": "Common",
-          "plantId": "c2aaf3bb-36b2-47f9-ad65-d28dda051d39"
+          "plantId": "c2aaf3bb-36b2-47f9-ad65-d28dda051d39",
+          "growthPhase": "sown"
         }
       ]
     },
@@ -3285,6 +3300,20 @@
           "y": 0,
           "width": 0,
           "height": 0
+        },
+        {
+          "id": "8f9ad67c-5052-4a14-a16c-8fd2257c9a8c",
+          "x": 732.6790637562576,
+          "y": 1494.6289633854778,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "a1d86516-0434-4856-80d3-e732a30fd251",
+          "x": 732.6790637562576,
+          "y": 1494.6289633854778,
+          "width": 16,
+          "height": 16
         }
       ]
     },
