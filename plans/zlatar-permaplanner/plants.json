@@ -430,6 +430,11 @@
       "id": "087e16a4-83f4-42c5-af89-f54ca08b68bf",
       "speciesId": "wild_rocket",
       "cultivarId": "common"
+    },
+    {
+      "id": "e6961a05-6a61-4aca-b4f0-41bc85031862",
+      "speciesId": "tagetes",
+      "cultivarId": "orange_flame"
     }
   ]
 }

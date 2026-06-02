@@ -346,6 +346,13 @@
           "id": "43737590-87fc-4549-a12b-3068a14e754c",
           "name": "Strawberry",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
+        },
+        {
+          "id": "ef1b1a40-a778-4ce9-bd68-cc683bb65210",
+          "name": "Orange Flame",
+          "plantId": "e6961a05-6a61-4aca-b4f0-41bc85031862",
+          "growthPhase": "transplanted",
+          "vigor": 2
         }
       ]
     },
@@ -545,6 +552,7 @@
       "id": "3dfe0537-2fdb-485c-ba2a-5eee1fa5416c",
       "name": "The Indigenous Plants",
       "mulchLevel": 1,
+      "note": "Sha",
       "plants": [
         {
           "id": "9cb1985f-9c71-4e31-abd0-ecab312f88a2",
@@ -1932,6 +1940,13 @@
         },
         {
           "id": "43737590-87fc-4549-a12b-3068a14e754c",
+          "x": 754.7864077669902,
+          "y": 692.6504854368932,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "ef1b1a40-a778-4ce9-bd68-cc683bb65210",
           "x": 754.7864077669902,
           "y": 692.6504854368932,
           "width": 16,
