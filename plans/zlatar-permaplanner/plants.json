@@ -465,6 +465,11 @@
       "id": "88c5b9ee-29de-4bc8-a693-1548da045b38",
       "speciesId": "jostaberry",
       "cultivarId": "josta"
+    },
+    {
+      "id": "6266f88e-5e5b-4c29-9409-03cd93819456",
+      "speciesId": "oregano",
+      "cultivarId": null
     }
   ]
 }
