@@ -455,6 +455,11 @@
       "id": "be52da4a-a008-4f42-97f7-77c657801ed5",
       "speciesId": "globe_artichoke",
       "cultivarId": "green_globe"
+    },
+    {
+      "id": "d4a13e97-60bc-45ac-b75d-f72215b992c5",
+      "speciesId": "service_tree",
+      "cultivarId": "pyrifera"
     }
   ]
 }

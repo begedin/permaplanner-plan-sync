@@ -700,6 +700,11 @@
           "plantId": "haskap",
           "growthPhase": "established",
           "vigor": 1
+        },
+        {
+          "id": "c965bd38-6cb1-43cc-9bbc-8c9d67ac593f",
+          "name": "Pyrifera (pear-shaped fruit)",
+          "plantId": "d4a13e97-60bc-45ac-b75d-f72215b992c5"
         }
       ]
     },
@@ -3011,6 +3016,13 @@
           "y": 0,
           "width": 0,
           "height": 0
+        },
+        {
+          "id": "c965bd38-6cb1-43cc-9bbc-8c9d67ac593f",
+          "x": 274.5473138473067,
+          "y": 1553.2120655994813,
+          "width": 16,
+          "height": 16
         }
       ]
     },
