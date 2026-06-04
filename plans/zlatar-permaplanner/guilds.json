@@ -629,7 +629,7 @@
       "id": "c1b33c82-f324-4013-ba9e-3faf3e94b161",
       "name": "Old Mix 2",
       "mulchLevel": 1,
-      "note": "the peach, unknown cultivar, actually died out and a new branch started growing bellow the cut",
+      "note": "the peach, unknown cultivar, actually died out and a new branch started growing bellow the cut\nservice tree was there for a while, but didn't notice. it's growing bush shaped and has no fruit or flowers yet.\nraspberry and blackberry, I'm unsure of exact cultivars, best guess",
       "plants": [
         {
           "id": "3c29263c-431f-4c8f-93b1-1e7c8cab5194",
@@ -711,7 +711,16 @@
         {
           "id": "47225cbf-2f50-4641-8511-8f3ca1577575",
           "name": "Raspberry",
-          "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3"
+          "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3",
+          "growthPhase": "established",
+          "vigor": 3
+        },
+        {
+          "id": "a1b419fc-91a3-44b9-9359-88513a3d07c4",
+          "name": "Loch Ness",
+          "plantId": "1698cfde-6bed-468a-9f6f-00181631590f",
+          "growthPhase": "established",
+          "vigor": 3
         }
       ]
     },
@@ -3033,6 +3042,13 @@
         },
         {
           "id": "47225cbf-2f50-4641-8511-8f3ca1577575",
+          "x": 274.5473138473067,
+          "y": 1553.2120655994813,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "a1b419fc-91a3-44b9-9359-88513a3d07c4",
           "x": 274.5473138473067,
           "y": 1553.2120655994813,
           "width": 16,
