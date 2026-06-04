@@ -1333,6 +1333,11 @@
           "id": "5fc5debb-c625-41d1-bde8-25aa8989f5cc",
           "name": "Kiwi",
           "plantId": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae"
+        },
+        {
+          "id": "95cca152-ecbd-4eb3-8abc-3dbad472dd21",
+          "name": "Kiwi",
+          "plantId": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae"
         }
       ]
     },
@@ -4649,6 +4654,13 @@
       "plants": [
         {
           "id": "5fc5debb-c625-41d1-bde8-25aa8989f5cc",
+          "x": 802.7165991902835,
+          "y": 1089.619710468426,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "95cca152-ecbd-4eb3-8abc-3dbad472dd21",
           "x": 802.7165991902835,
           "y": 1089.619710468426,
           "width": 16,
