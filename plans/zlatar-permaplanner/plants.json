@@ -460,6 +460,11 @@
       "id": "d4a13e97-60bc-45ac-b75d-f72215b992c5",
       "speciesId": "service_tree",
       "cultivarId": "pyrifera"
+    },
+    {
+      "id": "88c5b9ee-29de-4bc8-a693-1548da045b38",
+      "speciesId": "jostaberry",
+      "cultivarId": "josta"
     }
   ]
 }

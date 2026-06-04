@@ -695,16 +695,23 @@
           "vigor": 2
         },
         {
-          "id": "604ddfab-ab71-4f12-920f-0720c0ac810e",
-          "name": "Haskap",
-          "plantId": "haskap",
-          "growthPhase": "established",
-          "vigor": 1
-        },
-        {
           "id": "c965bd38-6cb1-43cc-9bbc-8c9d67ac593f",
           "name": "Pyrifera (pear-shaped fruit)",
-          "plantId": "d4a13e97-60bc-45ac-b75d-f72215b992c5"
+          "plantId": "d4a13e97-60bc-45ac-b75d-f72215b992c5",
+          "growthPhase": "established",
+          "vigor": 3
+        },
+        {
+          "id": "8cf43dc4-9925-484e-9694-b03229665bbd",
+          "name": "Josta",
+          "plantId": "88c5b9ee-29de-4bc8-a693-1548da045b38",
+          "growthPhase": "established",
+          "vigor": 3
+        },
+        {
+          "id": "47225cbf-2f50-4641-8511-8f3ca1577575",
+          "name": "Raspberry",
+          "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3"
         }
       ]
     },
@@ -3011,14 +3018,21 @@
           "height": 0
         },
         {
-          "id": "604ddfab-ab71-4f12-920f-0720c0ac810e",
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
+          "id": "c965bd38-6cb1-43cc-9bbc-8c9d67ac593f",
+          "x": 274.5473138473067,
+          "y": 1553.2120655994813,
+          "width": 16,
+          "height": 16
         },
         {
-          "id": "c965bd38-6cb1-43cc-9bbc-8c9d67ac593f",
+          "id": "8cf43dc4-9925-484e-9694-b03229665bbd",
+          "x": 274.5473138473067,
+          "y": 1553.2120655994813,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "47225cbf-2f50-4641-8511-8f3ca1577575",
           "x": 274.5473138473067,
           "y": 1553.2120655994813,
           "width": 16,
