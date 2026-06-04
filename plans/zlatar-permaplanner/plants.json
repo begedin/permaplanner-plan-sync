@@ -480,6 +480,11 @@
       "id": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae",
       "speciesId": "kiwi",
       "cultivarId": null
+    },
+    {
+      "id": "da3f494a-c225-47d8-a1f2-64141ee5f057",
+      "speciesId": "judas_tree",
+      "cultivarId": null
     }
   ]
 }
