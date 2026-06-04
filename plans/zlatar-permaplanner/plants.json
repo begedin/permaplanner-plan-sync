@@ -475,6 +475,11 @@
       "id": "8a25586f-313d-43c4-a1b7-622d569c137b",
       "speciesId": "sour_cherry",
       "cultivarId": "meteor"
+    },
+    {
+      "id": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae",
+      "speciesId": "kiwi",
+      "cultivarId": null
     }
   ]
 }
