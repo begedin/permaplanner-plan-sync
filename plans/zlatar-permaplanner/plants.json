@@ -470,6 +470,11 @@
       "id": "6266f88e-5e5b-4c29-9409-03cd93819456",
       "speciesId": "oregano",
       "cultivarId": null
+    },
+    {
+      "id": "8a25586f-313d-43c4-a1b7-622d569c137b",
+      "speciesId": "sour_cherry",
+      "cultivarId": "meteor"
     }
   ]
 }

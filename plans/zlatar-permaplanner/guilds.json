@@ -74,11 +74,6 @@
           "plantId": "comfrey"
         },
         {
-          "id": "d1ec71ec-b106-40f3-857b-169e395cc62b",
-          "name": "Livingstone daisy",
-          "plantId": "fe606b96-7777-42ab-9dde-7e7e59f489ba"
-        },
-        {
           "id": "7b0c6ac7-d30f-4388-a2bf-da84a10d25c4",
           "name": "Tikka",
           "plantId": "7ab5bab2-53e3-4c33-b4d3-cf8653537e80"
@@ -469,22 +464,30 @@
         {
           "id": "90a0d8b2-43d9-4f97-9aac-4de373f17922",
           "name": "Birch",
-          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282"
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "growthPhase": "young",
+          "vigor": 4
         },
         {
           "id": "e5c5d62b-fbb1-4277-aff3-d2d838602c85",
           "name": "Birch",
-          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282"
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "growthPhase": "young",
+          "vigor": 4
         },
         {
           "id": "43dab7bc-5d8e-4768-993b-d2316dcd6749",
           "name": "Birch",
-          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282"
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "growthPhase": "young",
+          "vigor": 4
         },
         {
           "id": "1221c733-373e-446f-8e29-59d5f1434e39",
           "name": "Birch",
-          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282"
+          "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
+          "growthPhase": "young",
+          "vigor": 4
         },
         {
           "id": "d85052f9-1af6-4f96-9a72-80af3326559c",
@@ -535,6 +538,13 @@
           "id": "f11691f4-c955-4b9b-9cdb-38046e313a22",
           "name": "Hibiscus",
           "plantId": "73f4d462-7219-403f-a85a-2f87da6e51d5"
+        },
+        {
+          "id": "af2c416c-64c3-479d-96e2-fd4739c7c062",
+          "name": "Common",
+          "plantId": "50f3c3b2-8245-48b8-9232-b1bac25102f5",
+          "growthPhase": "transplanted",
+          "vigor": 3
         }
       ]
     },
@@ -1248,6 +1258,18 @@
           "vigor": 2
         }
       ]
+    },
+    {
+      "id": "c6284d3a-6bc7-4e19-912e-3eb5d279b41e",
+      "name": "Meteor Cherry",
+      "mulchLevel": 1,
+      "plants": [
+        {
+          "id": "0edd4b9a-8223-4c0f-8f74-8a6754b936af",
+          "name": "Meteor",
+          "plantId": "8a25586f-313d-43c4-a1b7-622d569c137b"
+        }
+      ]
     }
   ],
   "guildLocations": [
@@ -1466,13 +1488,6 @@
         },
         {
           "id": "62a2d074-097c-4196-b342-c63e0adebed2",
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        {
-          "id": "d1ec71ec-b106-40f3-857b-169e395cc62b",
           "x": 0,
           "y": 0,
           "width": 0,
@@ -2586,6 +2601,13 @@
           "y": 0,
           "width": 0,
           "height": 0
+        },
+        {
+          "id": "af2c416c-64c3-479d-96e2-fd4739c7c062",
+          "x": 537.7208452450111,
+          "y": 1562.874336762481,
+          "width": 16,
+          "height": 16
         }
       ]
     },
@@ -4326,6 +4348,19 @@
           "y": 0,
           "width": 0,
           "height": 0
+        }
+      ]
+    },
+    {
+      "id": "c6284d3a-6bc7-4e19-912e-3eb5d279b41e",
+      "path": [],
+      "plants": [
+        {
+          "id": "0edd4b9a-8223-4c0f-8f74-8a6754b936af",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
         }
       ]
     }
