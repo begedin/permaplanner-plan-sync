@@ -1369,13 +1369,7 @@
       "id": "941cf535-e082-4884-9a8a-024dfbdff9c8",
       "name": "Southeast Slope",
       "mulchLevel": 1,
-      "plants": [
-        {
-          "id": "2f8c157f-0998-4846-9e3c-6dc62fada209",
-          "name": "Sea lavender",
-          "plantId": "63a3a0c5-4fe5-4a19-8cd3-242234705ca4"
-        }
-      ]
+      "plants": []
     }
   ],
   "guildLocations": [
@@ -4949,15 +4943,7 @@
           "y": 1252.0682404726695
         }
       ],
-      "plants": [
-        {
-          "id": "2f8c157f-0998-4846-9e3c-6dc62fada209",
-          "x": 566.5329102916604,
-          "y": 1236.0829903095569,
-          "width": 16,
-          "height": 16
-        }
-      ]
+      "plants": []
     }
   ]
 }
