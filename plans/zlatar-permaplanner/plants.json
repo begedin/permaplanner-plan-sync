@@ -505,6 +505,16 @@
       "id": "1d58f615-6a03-426a-9c7a-28c80e751882",
       "speciesId": "sage",
       "cultivarId": "mandala_silver"
+    },
+    {
+      "id": "4754976f-a658-4c35-a8c5-670859c3bd34",
+      "speciesId": "common_mallow",
+      "cultivarId": null
+    },
+    {
+      "id": "d33c7400-3e47-4bbd-a3dd-4e7537c45f1b",
+      "speciesId": "nectarine",
+      "cultivarId": "caldesi_2010"
     }
   ]
 }
