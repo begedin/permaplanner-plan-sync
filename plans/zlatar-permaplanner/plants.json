@@ -490,6 +490,21 @@
       "id": "63a3a0c5-4fe5-4a19-8cd3-242234705ca4",
       "speciesId": "sea_lavender",
       "cultivarId": null
+    },
+    {
+      "id": "eccadfb2-5c3d-4b57-be72-881371a48215",
+      "speciesId": "hyssop",
+      "cultivarId": "blues"
+    },
+    {
+      "id": "0b0fdc9a-fc4a-435a-83ab-af66cf4acfbb",
+      "speciesId": "english_lavender",
+      "cultivarId": null
+    },
+    {
+      "id": "1d58f615-6a03-426a-9c7a-28c80e751882",
+      "speciesId": "sage",
+      "cultivarId": "mandala_silver"
     }
   ]
 }

@@ -699,7 +699,7 @@
         },
         {
           "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
-          "name": "Sage",
+          "name": "Garden sage (Salvia officinalis)",
           "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864",
           "growthPhase": "established",
           "vigor": 4
@@ -1369,7 +1369,34 @@
       "id": "941cf535-e082-4884-9a8a-024dfbdff9c8",
       "name": "Southeast Slope",
       "mulchLevel": 1,
-      "plants": []
+      "plants": [
+        {
+          "id": "40581447-f3af-4b3d-8458-9b78ee2ceadf",
+          "name": "Venezia",
+          "plantId": "c98b7e86-174a-4aa6-abdf-dfb2fcd07dca"
+        },
+        {
+          "id": "6912a180-c233-4bb9-9cf0-3edf47ea1617",
+          "name": "Blues",
+          "plantId": "eccadfb2-5c3d-4b57-be72-881371a48215"
+        },
+        {
+          "id": "6ebb683a-3796-475f-834c-5c382705473a",
+          "name": "English lavender (Lavandula angustifolia)",
+          "plantId": "0b0fdc9a-fc4a-435a-83ab-af66cf4acfbb",
+          "growthPhase": "transplanted"
+        },
+        {
+          "id": "bc7d047a-0991-44ff-9687-73a970db8079",
+          "name": "Venezia",
+          "plantId": "c98b7e86-174a-4aa6-abdf-dfb2fcd07dca"
+        },
+        {
+          "id": "09af25db-3a04-4965-8294-b3309da93f29",
+          "name": "Mandala Silver",
+          "plantId": "1d58f615-6a03-426a-9c7a-28c80e751882"
+        }
+      ]
     }
   ],
   "guildLocations": [
@@ -4943,7 +4970,43 @@
           "y": 1252.0682404726695
         }
       ],
-      "plants": []
+      "plants": [
+        {
+          "id": "40581447-f3af-4b3d-8458-9b78ee2ceadf",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "6912a180-c233-4bb9-9cf0-3edf47ea1617",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "6ebb683a-3796-475f-834c-5c382705473a",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "bc7d047a-0991-44ff-9687-73a970db8079",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "09af25db-3a04-4965-8294-b3309da93f29",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        }
+      ]
     }
   ]
 }
