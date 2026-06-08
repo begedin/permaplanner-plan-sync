@@ -515,6 +515,11 @@
       "id": "d33c7400-3e47-4bbd-a3dd-4e7537c45f1b",
       "speciesId": "nectarine",
       "cultivarId": "caldesi_2010"
+    },
+    {
+      "id": "a5d88a71-86ba-48a1-8870-545c7f260e9e",
+      "speciesId": "jujube",
+      "cultivarId": null
     }
   ]
 }

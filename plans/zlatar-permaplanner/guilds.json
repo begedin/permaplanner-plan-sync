@@ -704,7 +704,7 @@
         },
         {
           "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
-          "name": "Sage",
+          "name": "Garden sage (Salvia officinalis)",
           "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864",
           "growthPhase": "established",
           "vigor": 4
@@ -1396,7 +1396,7 @@
         },
         {
           "id": "09af25db-3a04-4965-8294-b3309da93f29",
-          "name": "Sage",
+          "name": "Mandala Silver",
           "plantId": "1d58f615-6a03-426a-9c7a-28c80e751882",
           "growthPhase": "transplanted"
         },
@@ -1416,7 +1416,7 @@
       "plants": [
         {
           "id": "ef7e65f0-bfac-497d-885e-74f78bf8a367",
-          "name": "Nectarine",
+          "name": "Caldesi 2010",
           "plantId": "d33c7400-3e47-4bbd-a3dd-4e7537c45f1b"
         }
       ]
@@ -1425,7 +1425,30 @@
       "id": "6582561a-5648-4dff-a822-57f9d856b44c",
       "name": "Jujube",
       "mulchLevel": 1,
-      "plants": []
+      "plants": [
+        {
+          "id": "ed412abb-fc81-40c6-8840-6513869e7085",
+          "name": "Jujube (Chinese date)",
+          "plantId": "a5d88a71-86ba-48a1-8870-545c7f260e9e"
+        }
+      ]
+    },
+    {
+      "id": "6d05144b-e2d6-4eaf-af4e-df7f0b58588f",
+      "name": "Broken Granny Smith",
+      "mulchLevel": 1,
+      "plants": [
+        {
+          "id": "6f663096-f261-4914-a022-ebb06b5b3f39",
+          "name": "Granny Smith",
+          "plantId": "apple_granny_smith"
+        },
+        {
+          "id": "5cd4b6b2-c793-4352-8835-adde639610a4",
+          "name": "Pole bean",
+          "plantId": "62122a44-5f79-4317-9964-041794141023"
+        }
+      ]
     }
   ],
   "guildLocations": [
@@ -5162,7 +5185,35 @@
           "y": 1568.5652606568929
         }
       ],
-      "plants": []
+      "plants": [
+        {
+          "id": "ed412abb-fc81-40c6-8840-6513869e7085",
+          "x": 773.4344343950045,
+          "y": 1565.8607863938505,
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "id": "6d05144b-e2d6-4eaf-af4e-df7f0b58588f",
+      "path": [],
+      "plants": [
+        {
+          "id": "6f663096-f261-4914-a022-ebb06b5b3f39",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "5cd4b6b2-c793-4352-8835-adde639610a4",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        }
+      ]
     }
   ]
 }
