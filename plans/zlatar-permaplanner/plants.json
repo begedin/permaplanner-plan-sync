@@ -530,6 +530,11 @@
       "id": "cb376981-9d24-4ce7-8ee6-b859160f6a5b",
       "speciesId": "sunflower",
       "cultivarId": null
+    },
+    {
+      "id": "5fd6f462-0732-4542-9609-b47a63c1db18",
+      "speciesId": "watermelon",
+      "cultivarId": null
     }
   ]
 }
