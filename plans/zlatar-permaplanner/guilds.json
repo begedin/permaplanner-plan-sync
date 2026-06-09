@@ -1500,6 +1500,18 @@
       "mulchLevel": 1,
       "note": "Has a flower summer mix sown in as well",
       "plants": []
+    },
+    {
+      "id": "ecb348f5-2983-43e4-8c81-640e476e72a9",
+      "name": "Lilac and Magnolia",
+      "mulchLevel": 1,
+      "plants": [
+        {
+          "id": "c6124fe0-0b7f-4b07-a250-126710a3cfea",
+          "name": "Little Gem",
+          "plantId": "404241a3-8a2f-47ac-8447-a0759794277d"
+        }
+      ]
     }
   ],
   "guildLocations": [
@@ -5376,6 +5388,19 @@
         }
       ],
       "plants": []
+    },
+    {
+      "id": "ecb348f5-2983-43e4-8c81-640e476e72a9",
+      "path": [],
+      "plants": [
+        {
+          "id": "c6124fe0-0b7f-4b07-a250-126710a3cfea",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        }
+      ]
     }
   ]
 }

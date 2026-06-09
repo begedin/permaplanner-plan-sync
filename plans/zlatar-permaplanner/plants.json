@@ -535,6 +535,16 @@
       "id": "5fd6f462-0732-4542-9609-b47a63c1db18",
       "speciesId": "watermelon",
       "cultivarId": null
+    },
+    {
+      "id": "044faf58-a2fc-4d08-aca6-708484c5f0d5",
+      "speciesId": "lilac",
+      "cultivarId": null
+    },
+    {
+      "id": "404241a3-8a2f-47ac-8447-a0759794277d",
+      "speciesId": "magnolia",
+      "cultivarId": "little_gem"
     }
   ]
 }
