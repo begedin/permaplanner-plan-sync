@@ -520,6 +520,16 @@
       "id": "a5d88a71-86ba-48a1-8870-545c7f260e9e",
       "speciesId": "jujube",
       "cultivarId": null
+    },
+    {
+      "id": "de5343c0-404f-44fc-9526-21a648eef324",
+      "speciesId": "pole_bean",
+      "cultivarId": "blauhilde"
+    },
+    {
+      "id": "cb376981-9d24-4ce7-8ee6-b859160f6a5b",
+      "speciesId": "sunflower",
+      "cultivarId": null
     }
   ]
 }

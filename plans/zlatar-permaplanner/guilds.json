@@ -8,42 +8,42 @@
       "plants": [
         {
           "id": "33a31f08-15a1-49cf-a36f-29c0d9bd61f6",
-          "name": "Nashi pear",
+          "name": "Nashi pear (Pyrus pyrifolia)",
           "plantId": "28e38d4b-9813-4a06-866a-37e00fa82c8d"
         },
         {
           "id": "9c8bd2b2-6389-4c88-9893-cfed18e1b643",
-          "name": "Nanking cherry",
+          "name": "Nanking cherry (Prunus tomentosa)",
           "plantId": "40a22e74-9e9e-4ec6-a498-ed3acff4a011"
         },
         {
           "id": "82a6780d-7940-4fb7-aa7b-9db083dd58d8",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "e568e91f-db37-4ad4-b3b0-b971cc5282b8",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "3e97a7ae-ce6a-4204-8ae8-753cd5367042",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey"
         },
         {
           "id": "94babf72-bbb1-4f3e-9829-dd41d920c02e",
-          "name": "Nasturtium",
+          "name": "Nasturtium (Tropaeolum majus)",
           "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a"
         },
         {
           "id": "9045a9f2-baeb-4aa7-aba7-aa010fe26334",
-          "name": "Sweet William",
+          "name": "Sweet William (Dianthus barbatus)",
           "plantId": "b55eb666-3f93-4f1f-891e-e2a2b4034f15"
         },
         {
           "id": "1995041a-245a-4b05-a75d-6ac644b03b13",
-          "name": "Carpathian bellflower",
+          "name": "Carpathian bellflower (Campanula carpatica)",
           "plantId": "290e85d9-fdda-4afb-a673-07bad480381e"
         },
         {
@@ -60,7 +60,7 @@
       "plants": [
         {
           "id": "25d606f5-77e5-4d6c-befe-c2ccd1b531ce",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "id": "62a2d074-097c-4196-b342-c63e0adebed2",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey"
         },
         {
@@ -94,7 +94,7 @@
       "plants": [
         {
           "id": "0e4bb2d6-dbe4-4f4a-bd7d-4ecd66796f11",
-          "name": "Persimmon",
+          "name": "Persimmon (Diospyros kaki)",
           "plantId": "25abbbc7-8bcd-49d5-982f-66894e95db79",
           "growthPhase": "established",
           "vigor": 3
@@ -115,20 +115,20 @@
         },
         {
           "id": "c2c8e052-0fd3-4728-a43d-9512d6577ff9",
-          "name": "Dill",
+          "name": "Dill (Anethum graveolens)",
           "plantId": "aaf9778b-c7aa-4442-8df4-04f7214271b9",
           "growthPhase": "sown"
         },
         {
           "id": "63b0a39d-e088-4c2f-bb42-dc34d8b117d5",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "8f3cabad-a38b-43e7-a131-1b468612e957",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "established",
           "vigor": 4
@@ -152,22 +152,22 @@
         },
         {
           "id": "d4e6f3da-de84-4424-91e9-ba670aa4b42d",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "380fc359-4413-4237-9b8f-1aaef484e390",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "4b77d712-0b44-4bf7-ad25-7b53e34989b9",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "c0360f94-3cf1-4e8b-be49-f91e6f360698",
-          "name": "Nasturtium",
+          "name": "Nasturtium (Tropaeolum majus)",
           "plantId": "26e224c9-7899-4fd1-b430-a4cbeacd1e6a"
         },
         {
@@ -199,19 +199,19 @@
         },
         {
           "id": "756900ab-fb3f-4c94-87dd-7524701edf71",
-          "name": "Creeping (mother of thyme)",
+          "name": "Creeping (mother of thyme) (Thymus serpyllum)",
           "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "94494755-3888-4591-91ab-cbd8d8b6e5c5",
-          "name": "Narcissus (daffodil)",
+          "name": "Narcissus (daffodil) (Narcissus pseudonarcissus)",
           "plantId": "a7707479-1f73-44f4-8f62-9a8488315921"
         },
         {
           "id": "b214ca98-c4c7-4b5d-8bda-254092c28688",
-          "name": "Nanking cherry",
+          "name": "Nanking cherry (Prunus tomentosa)",
           "plantId": "3622bdc6-5377-4dbe-93b3-a8b573a39ba6"
         },
         {
@@ -226,31 +226,31 @@
         },
         {
           "id": "9363f83c-6135-4a99-83c1-15280c79675c",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "a4ccdfc6-0a04-46f8-81f4-1e09ecd9b3b0",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "52c8fe8b-d7a7-4b1f-a7e7-a6936a2ef91b",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "882a1930-5a19-4692-89af-08505f9cc58e",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 2
         },
         {
           "id": "b73e132f-233d-41ab-b85d-50c320ab8b25",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
@@ -264,56 +264,56 @@
       "plants": [
         {
           "id": "cf4e15bb-1838-4d01-bf2f-92caa6e902c3",
-          "name": "Sour cherry",
+          "name": "Sour cherry (Prunus cerasus)",
           "plantId": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "989da778-6e50-470d-834e-bb7529f8660d",
-          "name": "Sour cherry",
+          "name": "Sour cherry (Prunus cerasus)",
           "plantId": "049cebd6-387a-4c22-bb42-af9d7a0838a3",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "b3dc48f7-a029-4e02-9358-47c5ee16b459",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey",
           "growthPhase": "young",
           "vigor": 2
         },
         {
           "id": "95660ef4-a31a-44b5-a9d7-38c2c9d3a041",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "61a37c4f-3e90-4c41-9c52-9925f2bfd40b",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "03fae6ec-d5e1-4013-86c5-320f8bd187fa",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "d477ea10-1d41-4777-86e2-4726e8845fcb",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "established",
           "vigor": 3
         },
         {
           "id": "6058c7db-b198-4eb1-8587-9db3bd2c1c2c",
-          "name": "Curry plant",
+          "name": "Curry plant (Helichrysum italicum)",
           "plantId": "027ef50a-61db-4c08-b5f3-2a34fd2fa979",
           "growthPhase": "established",
           "vigor": 3
@@ -327,21 +327,21 @@
         },
         {
           "id": "68ee37a8-494f-4b47-afdc-5e20f85c069a",
-          "name": "Goumi",
+          "name": "Goumi (Elaeagnus multiflora)",
           "plantId": "e7512c5a-8daf-49d4-931d-89348f54ace4",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "2e332362-4d66-4374-8b77-0a3861ee5ca2",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "43737590-87fc-4549-a12b-3068a14e754c",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
@@ -365,22 +365,22 @@
         },
         {
           "id": "69e05bd7-d03e-4bdf-85e7-c52562ad08e0",
-          "name": "Black currant",
+          "name": "Black currant (Ribes nigrum)",
           "plantId": "fa1fbb36-f6fd-4880-9c6b-2e4c9ecdde74"
         },
         {
           "id": "34dcdfa9-188d-4e3e-a49f-9303d69e0ab5",
-          "name": "Black currant",
+          "name": "Black currant (Ribes nigrum)",
           "plantId": "fa1fbb36-f6fd-4880-9c6b-2e4c9ecdde74"
         },
         {
           "id": "e10ae91a-8115-40a6-aba5-5c41e366bb23",
-          "name": "Red currant",
+          "name": "Red currant (Ribes rubrum)",
           "plantId": "f6da31c7-4545-4ef5-962f-ef55a7c54c0c"
         },
         {
           "id": "f0fd3758-c2d5-4d0c-b9c5-162ed6d65b7a",
-          "name": "Comfrey",
+          "name": "Comfrey (Symphytum officinale)",
           "plantId": "comfrey"
         },
         {
@@ -407,17 +407,17 @@
       "plants": [
         {
           "id": "8d8af8c7-fc22-433a-bb27-282cfddd7c70",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "507d1856-f35f-412f-ae1e-4eb48a405304",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "530a57ba-57f4-453e-943f-5c91f89f3a52",
-          "name": "Larkspur",
+          "name": "Larkspur (Consolida ajacis)",
           "plantId": "3fa4892a-c7cd-49c2-b686-ab180b9df74b"
         },
         {
@@ -434,7 +434,7 @@
       "plants": [
         {
           "id": "e0061791-b5b9-47fd-bb49-de045cc6c4a4",
-          "name": "Hardy orange (trifoliate)",
+          "name": "Hardy orange (trifoliate) (Poncirus trifoliata)",
           "plantId": "3b5618d1-7417-42f9-bcfd-0801100f0b43"
         }
       ]
@@ -468,70 +468,70 @@
       "plants": [
         {
           "id": "90a0d8b2-43d9-4f97-9aac-4de373f17922",
-          "name": "Birch",
+          "name": "Birch (Betula pendula)",
           "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
           "growthPhase": "young",
           "vigor": 4
         },
         {
           "id": "e5c5d62b-fbb1-4277-aff3-d2d838602c85",
-          "name": "Birch",
+          "name": "Birch (Betula pendula)",
           "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
           "growthPhase": "young",
           "vigor": 4
         },
         {
           "id": "43dab7bc-5d8e-4768-993b-d2316dcd6749",
-          "name": "Birch",
+          "name": "Birch (Betula pendula)",
           "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
           "growthPhase": "young",
           "vigor": 4
         },
         {
           "id": "1221c733-373e-446f-8e29-59d5f1434e39",
-          "name": "Birch",
+          "name": "Birch (Betula pendula)",
           "plantId": "9fed316a-4737-4c2b-9788-45b5b47c3282",
           "growthPhase": "young",
           "vigor": 4
         },
         {
           "id": "d85052f9-1af6-4f96-9a72-80af3326559c",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "fbdd0dbd-bf27-4320-85bb-38fcf7049c8e",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "1c3caac4-e5e1-463f-b9f3-f46ab37d8594",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "27f0ce7d-462d-4f96-a5ca-e3376f752c48",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "a919bd44-453a-4e85-b8db-a8498c3e4f46",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "47151f25-6643-41d3-830d-8cc3834702a7",
-          "name": "Blueberry",
+          "name": "Blueberry (Vaccinium corymbosum)",
           "plantId": "f057370d-1370-4197-88f6-729296b81412"
         },
         {
           "id": "61d53c4c-ce88-47f8-936d-f8302bec9b93",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
           "id": "281f6a13-a48d-4344-9f2b-66942c78315c",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
@@ -541,7 +541,7 @@
         },
         {
           "id": "f11691f4-c955-4b9b-9cdb-38046e313a22",
-          "name": "Hibiscus",
+          "name": "Hibiscus (Hibiscus syriacus)",
           "plantId": "73f4d462-7219-403f-a85a-2f87da6e51d5"
         },
         {
@@ -600,12 +600,12 @@
       "plants": [
         {
           "id": "88892a7e-ea8d-4e7e-a6c1-0264ca9c7daa",
-          "name": "Yellowhorn (shan li hong)",
+          "name": "Yellowhorn (shan li hong) (Xanthoceras sorbifolium)",
           "plantId": "066faeb3-995f-488b-ad30-d3484aa281b7"
         },
         {
           "id": "8df5fd08-d5e1-4fe2-8572-f03a3c9653a0",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
@@ -615,32 +615,32 @@
         },
         {
           "id": "3247ad88-3a6d-4235-a767-c4754f0f6819",
-          "name": "Cornelian cherry",
+          "name": "Cornelian cherry (Cornus mas)",
           "plantId": "92418615-dc27-4c9b-8169-f1180f8ca4e4"
         },
         {
           "id": "15c98d85-d7c0-4771-8ad0-4f27e18f37b5",
-          "name": "Blackberry",
+          "name": "Blackberry (Rubus fruticosus)",
           "plantId": "b726da28-9a71-4804-8caf-d29a027a5252"
         },
         {
           "id": "4d07a8ff-5402-4764-970f-553998677139",
-          "name": "Blackberry",
+          "name": "Blackberry (Rubus fruticosus)",
           "plantId": "b726da28-9a71-4804-8caf-d29a027a5252"
         },
         {
           "id": "653205cf-8302-4c49-a2bc-ca57e6794539",
-          "name": "Japanese maple",
+          "name": "Japanese maple (Acer palmatum)",
           "plantId": "ef136b9d-1102-434d-a913-bb105c7e5b73"
         },
         {
           "id": "13533201-bc9f-47f2-a2ad-37e17e70f682",
-          "name": "Cornelian cherry",
+          "name": "Cornelian cherry (Cornus mas)",
           "plantId": "92418615-dc27-4c9b-8169-f1180f8ca4e4"
         },
         {
           "id": "e4d64cea-4d0b-43d0-a864-eb934936e528",
-          "name": "Oregano",
+          "name": "Oregano (Origanum vulgare)",
           "plantId": "6266f88e-5e5b-4c29-9409-03cd93819456",
           "growthPhase": "established",
           "vigor": 2
@@ -662,7 +662,7 @@
         },
         {
           "id": "0e809b32-c5c6-4f28-938e-cdfe71741ca7",
-          "name": "Rosemary",
+          "name": "Rosemary (Salvia rosmarinus)",
           "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
           "growthPhase": "producing",
           "vigor": 3
@@ -676,21 +676,21 @@
         },
         {
           "id": "37e14a8f-7c40-450b-8381-9f5bc7dd3ecb",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "producing",
           "vigor": 4
         },
         {
           "id": "e5491f94-222e-4ee4-adf7-c27ee44b0711",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "producing",
           "vigor": 4
         },
         {
           "id": "70a3692a-bf16-4d4b-90f7-558057ad5438",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1",
           "growthPhase": "producing",
           "vigor": 4
@@ -704,14 +704,14 @@
         },
         {
           "id": "3e2dd82d-cfa2-4760-a336-c0a4ecfe512e",
-          "name": "Garden sage (Salvia officinalis)",
+          "name": "Garden sage (Salvia officinalis) (Salvia officinalis)",
           "plantId": "41b5e495-1004-4705-b8da-c9f5fbce6864",
           "growthPhase": "established",
           "vigor": 4
         },
         {
           "id": "7d9e0cdb-ae01-4bc3-955f-e3870e4b283c",
-          "name": "Peach",
+          "name": "Peach (Prunus persica)",
           "plantId": "6d28496d-1b99-4ddf-963a-08e75f82e244",
           "growthPhase": "established",
           "vigor": 2
@@ -732,7 +732,7 @@
         },
         {
           "id": "47225cbf-2f50-4641-8511-8f3ca1577575",
-          "name": "Raspberry",
+          "name": "Raspberry (Rubus idaeus)",
           "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3",
           "growthPhase": "established",
           "vigor": 3
@@ -753,12 +753,12 @@
       "plants": [
         {
           "id": "6a2fa3e7-bffd-409d-8058-ad2fd71e7958",
-          "name": "Raspberry",
+          "name": "Raspberry (Rubus idaeus)",
           "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3"
         },
         {
           "id": "9516535b-2442-41eb-8d34-18c084dbf2e5",
-          "name": "Raspberry",
+          "name": "Raspberry (Rubus idaeus)",
           "plantId": "fc6c0478-aac8-4fba-944c-2c6ccb9f17c3"
         },
         {
@@ -805,7 +805,7 @@
         },
         {
           "id": "c235f588-eddb-4ef0-b008-a21c146f9b31",
-          "name": "Goji berry",
+          "name": "Goji berry (Lycium barbarum)",
           "plantId": "e760792c-e1fa-41fb-acb4-52d3498a5ef1"
         },
         {
@@ -815,17 +815,17 @@
         },
         {
           "id": "960d6fa7-0549-4c29-bef6-6ab499da0539",
-          "name": "Goumi",
+          "name": "Goumi (Elaeagnus multiflora)",
           "plantId": "e7512c5a-8daf-49d4-931d-89348f54ace4"
         },
         {
           "id": "b9cae8b7-0d8d-4a2e-9241-b4646773705e",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "f0e0b4e4-d1e6-4234-a205-544ec2535632",
-          "name": "Naples garlic (Allium neapolitanum)",
+          "name": "Naples garlic (Allium neapolitanum) (Allium neapolitanum)",
           "plantId": "50daca98-d216-484f-9724-9fc497204679"
         },
         {
@@ -856,22 +856,22 @@
         },
         {
           "id": "575f936d-18ad-4ee2-9d3a-49e1821af972",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "e757f4de-e66e-4546-8abb-719544fc785e",
-          "name": "Haskap",
+          "name": "Haskap (Lonicera caerulea)",
           "plantId": "haskap"
         },
         {
           "id": "2f8ec0ee-7f0c-49e3-a131-72c29d3ad466",
-          "name": "Strawberry",
+          "name": "Strawberry (Fragaria × ananassa)",
           "plantId": "7362c53a-541b-439d-b5ad-fe97ed89c3a1"
         },
         {
           "id": "d251367d-12c1-4048-aa0b-c8907b9f9a72",
-          "name": "Dog rose (Rosa canina)",
+          "name": "Dog rose (Rosa canina) (Rosa canina)",
           "plantId": "1c50cbcb-d11d-4748-85e7-937b1076bd13"
         },
         {
@@ -913,27 +913,27 @@
       "plants": [
         {
           "id": "a6d8a0b5-c0a5-4cf8-bc20-8b1093062cc6",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "02a06998-c8fb-4b3d-8a4f-001e1d3dcacd",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "64176d06-3d4c-47da-a1e9-5833b75c7270",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "6a97ad7c-c08d-446a-af40-01275c37c77e",
-          "name": "Calendula (pot marigold)",
+          "name": "Calendula (pot marigold) (Calendula officinalis)",
           "plantId": "f1a6ffb3-885c-4616-a85d-96ed9edcb20d"
         },
         {
           "id": "439ff5cf-ce9f-456d-9883-e05d9a386094",
-          "name": "Aubrieta (rock cress)",
+          "name": "Rock cress (Aubrieta deltoidea)",
           "plantId": "8008f844-b825-4b85-891f-e764bb187a31"
         },
         {
@@ -943,12 +943,12 @@
         },
         {
           "id": "90b9e08c-8654-45dd-81c7-6033f22f0fd0",
-          "name": "Coneflower (Echinacea)",
+          "name": "Coneflower (Echinacea) (Echinacea purpurea)",
           "plantId": "83289b91-047b-48b5-8b38-5536ca8a72cb"
         },
         {
           "id": "22fba1b3-13ba-4728-b852-f20d2780238a",
-          "name": "Coneflower (Echinacea)",
+          "name": "Coneflower (Echinacea) (Echinacea purpurea)",
           "plantId": "83289b91-047b-48b5-8b38-5536ca8a72cb"
         }
       ]
@@ -960,7 +960,7 @@
       "plants": [
         {
           "id": "df56c353-9359-49b5-81ac-ee5eac78f56d",
-          "name": "Pear",
+          "name": "Pear (Pyrus communis)",
           "plantId": "eec68a22-d6f4-41a5-8f46-17a51c37d75f",
           "growthPhase": "producing",
           "vigor": 3
@@ -1016,35 +1016,35 @@
         },
         {
           "id": "4ed683ff-803d-4ee8-b831-82ca5cbff6f3",
-          "name": "Creeping (mother of thyme)",
+          "name": "Creeping (mother of thyme) (Thymus serpyllum)",
           "plantId": "f832d85c-f9f8-419c-89fc-99eed038f996",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "8f94812a-3ee2-455b-bb98-b1afb79a7c75",
-          "name": "Rosemary",
+          "name": "Rosemary (Salvia rosmarinus)",
           "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "954abc56-1e97-4a78-ab29-8cc8ad50ca0f",
-          "name": "Rosemary",
+          "name": "Rosemary (Salvia rosmarinus)",
           "plantId": "0abeaf80-ba54-4a5a-b359-bc742f7b579e",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "9f8c2bf1-4698-4170-8d9a-a8d85be032a9",
-          "name": "Sweet potato",
+          "name": "Sweet potato (Ipomoea batatas)",
           "plantId": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "7e18b009-58fc-424d-9420-a525deed7319",
-          "name": "Sweet potato",
+          "name": "Sweet potato (Ipomoea batatas)",
           "plantId": "a5725e38-a8d6-4fdb-a1e8-ddf3df93b918",
           "growthPhase": "transplanted",
           "vigor": 2
@@ -1058,77 +1058,77 @@
       "plants": [
         {
           "id": "87c005bb-3d67-48b3-a9cb-6d45d6934e7d",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "09f100e7-69bf-45bc-9ac3-4a5fa217066b",
-          "name": "Asparagus",
+          "name": "Asparagus (Asparagus officinalis)",
           "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
           "growthPhase": "sown",
           "vigor": 2
         },
         {
           "id": "4d5ad618-abdd-4b7e-9727-d6ad26481f92",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 2
         },
         {
           "id": "4d7728ca-a4e8-417c-bb12-9994eada731d",
-          "name": "Asparagus",
+          "name": "Asparagus (Asparagus officinalis)",
           "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
           "growthPhase": "sown",
           "vigor": 2
         },
         {
           "id": "a0db2be4-217c-400b-9e56-1976b6664d46",
-          "name": "Asparagus",
+          "name": "Asparagus (Asparagus officinalis)",
           "plantId": "c4517b69-3293-48cd-bae0-a400a056a36b",
           "growthPhase": "sown",
           "vigor": 2
         },
         {
           "id": "3e4f46f3-14e9-4036-8a0a-f498ebcac449",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "5730bd72-1cd6-4bd8-99ec-2aed5b432694",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "0345f774-60d3-4079-acc5-c72a661105e8",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "5207a04d-0dba-4a4f-9ec5-c59823ebe869",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 3
         },
         {
           "id": "997c89dc-9df0-49a4-8344-23faf37f4521",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 2
         },
         {
           "id": "9b818909-e7e7-4c9f-80c4-706136891069",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 2
@@ -1149,71 +1149,83 @@
     },
     {
       "id": "86c10c88-122b-4eb5-9463-658c98d48950",
-      "name": "Bean Tipi",
+      "name": "Bean Teepee",
       "mulchLevel": 3,
       "plants": [
         {
           "id": "c5115779-6b8b-4f27-b9f6-c2e94d97ac83",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "27539477-5f69-4351-88c8-b9dd017c4785",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "e8a732e9-e2cd-4a8f-a744-7059c41d7243",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "e6e78a20-7316-4922-8125-0342d42756ff",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "c4190f95-399f-42bc-b7cf-0871de1cfff3",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "7f11722b-d858-405e-8320-e16f38ac8b36",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "97383487-1ffc-44ed-a28c-1af763f1ba59",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "b01ebbe3-c1e0-4916-a1ba-8c498f0a6d5c",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023",
           "growthPhase": "young",
           "vigor": 3
         },
         {
           "id": "3ed48d82-3a3e-452b-836e-7af89c5d6451",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "young",
           "vigor": 2
+        },
+        {
+          "id": "f7a76a26-2365-40ac-9ff2-c137b59acf31",
+          "name": "Blauhilde",
+          "plantId": "de5343c0-404f-44fc-9526-21a648eef324",
+          "growthPhase": "sown"
+        },
+        {
+          "id": "f9647601-fc42-468c-b302-64cae50d5222",
+          "name": "Blauhilde",
+          "plantId": "de5343c0-404f-44fc-9526-21a648eef324",
+          "growthPhase": "sown"
         }
       ]
     },
@@ -1242,7 +1254,18 @@
       "id": "40dd2aab-a4c0-411c-8bb9-890b88097b51",
       "name": "Anual Bed 1",
       "mulchLevel": 1,
-      "plants": []
+      "plants": [
+        {
+          "id": "45e8396f-3261-4d79-90a4-e6e12f2931df",
+          "name": "Sunflower (Helianthus annuus)",
+          "plantId": "cb376981-9d24-4ce7-8ee6-b859160f6a5b"
+        },
+        {
+          "id": "526bb7c1-ebe9-4c62-850c-6cc0995e340a",
+          "name": "Blauhilde",
+          "plantId": "de5343c0-404f-44fc-9526-21a648eef324"
+        }
+      ]
     },
     {
       "id": "1a6a4f4a-9808-4900-89ed-b4bdf9717b9b",
@@ -1261,6 +1284,16 @@
           "plantId": "75d092bd-e977-4eaf-a1f1-0c46d6946471",
           "growthPhase": "transplanted",
           "vigor": 2
+        },
+        {
+          "id": "e1b511ac-4118-4392-99a3-51b57b5f756b",
+          "name": "Blauhilde",
+          "plantId": "de5343c0-404f-44fc-9526-21a648eef324"
+        },
+        {
+          "id": "4c7ee78d-b409-43e5-abd1-977ae0168cc7",
+          "name": "Sunflower (Helianthus annuus)",
+          "plantId": "cb376981-9d24-4ce7-8ee6-b859160f6a5b"
         }
       ]
     },
@@ -1287,42 +1320,42 @@
       "plants": [
         {
           "id": "71b992a3-219b-4d93-bde6-a39825221208",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "d32d70a3-aba3-42b5-a8e3-d34765559310",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "353a36fc-2407-45d0-9c3d-e381b63bc74b",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "ad15f1cd-4686-4489-97cd-976c3ff28a19",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "3c1d904a-e150-416c-bf5d-12b19987bf28",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
         },
         {
           "id": "536d66b5-2a78-4d24-b9ee-8aedb44130d5",
-          "name": "Elderberry",
+          "name": "Elderberry (Sambucus nigra)",
           "plantId": "69b20917-5303-41b0-8144-443413bf825b",
           "growthPhase": "transplanted",
           "vigor": 2
@@ -1336,12 +1369,12 @@
       "plants": [
         {
           "id": "5fc5debb-c625-41d1-bde8-25aa8989f5cc",
-          "name": "Kiwi",
+          "name": "Kiwi (Actinidia deliciosa)",
           "plantId": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae"
         },
         {
           "id": "95cca152-ecbd-4eb3-8abc-3dbad472dd21",
-          "name": "Kiwi",
+          "name": "Kiwi (Actinidia deliciosa)",
           "plantId": "d5749181-a630-4efd-a6a5-7ea8e4fc31ae"
         }
       ]
@@ -1365,7 +1398,7 @@
       "plants": [
         {
           "id": "5b108874-88ee-4b22-87b8-153c7d29f5c6",
-          "name": "Judas tree",
+          "name": "Judas tree (Cercis siliquastrum)",
           "plantId": "da3f494a-c225-47d8-a1f2-64141ee5f057"
         }
       ]
@@ -1428,7 +1461,7 @@
       "plants": [
         {
           "id": "ed412abb-fc81-40c6-8840-6513869e7085",
-          "name": "Jujube (Chinese date)",
+          "name": "Jujube (Chinese date) (Ziziphus jujuba)",
           "plantId": "a5d88a71-86ba-48a1-8870-545c7f260e9e"
         }
       ]
@@ -1446,7 +1479,7 @@
         },
         {
           "id": "5cd4b6b2-c793-4352-8835-adde639610a4",
-          "name": "Pole bean",
+          "name": "Pole bean (Phaseolus vulgaris)",
           "plantId": "62122a44-5f79-4317-9964-041794141023"
         }
       ]
@@ -4311,6 +4344,20 @@
           "y": 0,
           "width": 0,
           "height": 0
+        },
+        {
+          "id": "f7a76a26-2365-40ac-9ff2-c137b59acf31",
+          "x": 901.3045298069575,
+          "y": 1085.5438213605964,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "f9647601-fc42-468c-b302-64cae50d5222",
+          "x": 901.3045298069575,
+          "y": 1085.5438213605964,
+          "width": 16,
+          "height": 16
         }
       ]
     },
@@ -4463,7 +4510,22 @@
           "y": 1472.395273082406
         }
       ],
-      "plants": []
+      "plants": [
+        {
+          "id": "45e8396f-3261-4d79-90a4-e6e12f2931df",
+          "x": 837.7798842971666,
+          "y": 1464.0988517454714,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "526bb7c1-ebe9-4c62-850c-6cc0995e340a",
+          "x": 837.7798842971666,
+          "y": 1464.0988517454714,
+          "width": 16,
+          "height": 16
+        }
+      ]
     },
     {
       "id": "1a6a4f4a-9808-4900-89ed-b4bdf9717b9b",
@@ -4539,6 +4601,20 @@
           "y": 0,
           "width": 0,
           "height": 0
+        },
+        {
+          "id": "e1b511ac-4118-4392-99a3-51b57b5f756b",
+          "x": 885.7474737637434,
+          "y": 1460.7969095391263,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "4c7ee78d-b409-43e5-abd1-977ae0168cc7",
+          "x": 885.7474737637434,
+          "y": 1460.7969095391263,
+          "width": 16,
+          "height": 16
         }
       ]
     },
