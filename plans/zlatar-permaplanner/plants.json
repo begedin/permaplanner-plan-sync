@@ -565,6 +565,16 @@
       "id": "8083c9ab-6123-473a-ae35-55fb8098ae55",
       "speciesId": "verbena_bonariensis",
       "cultivarId": null
+    },
+    {
+      "id": "5b419425-f625-4495-8efb-466bab382e18",
+      "speciesId": "night_scented_stock",
+      "cultivarId": null
+    },
+    {
+      "id": "db45ab08-9dfb-4065-af71-5ec86821ad85",
+      "speciesId": "night_scented_stock",
+      "cultivarId": "common"
     }
   ]
 }

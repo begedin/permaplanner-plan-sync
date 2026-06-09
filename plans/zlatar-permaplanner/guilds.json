@@ -1449,6 +1449,18 @@
           "plantId": "0b0fdc9a-fc4a-435a-83ab-af66cf4acfbb",
           "growthPhase": "transplanted",
           "vigor": 3
+        },
+        {
+          "id": "b147609d-0a5e-405d-ae96-e04deeda499b",
+          "name": "Common",
+          "plantId": "db45ab08-9dfb-4065-af71-5ec86821ad85",
+          "growthPhase": "sown"
+        },
+        {
+          "id": "8f6f162e-ddc7-415e-88f5-676b31df1a7b",
+          "name": "Rock cress (Aubrieta deltoidea)",
+          "plantId": "8008f844-b825-4b85-891f-e764bb187a31",
+          "growthPhase": "sown"
         }
       ]
     },
@@ -5353,6 +5365,20 @@
         },
         {
           "id": "729b3e1c-5ba0-4b8d-bb0d-b338c8490901",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "b147609d-0a5e-405d-ae96-e04deeda499b",
+          "x": 566.5329102916604,
+          "y": 1236.0829903095569,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "8f6f162e-ddc7-415e-88f5-676b31df1a7b",
           "x": 566.5329102916604,
           "y": 1236.0829903095569,
           "width": 16,
