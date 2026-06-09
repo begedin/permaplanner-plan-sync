@@ -1508,8 +1508,13 @@
       "plants": [
         {
           "id": "c6124fe0-0b7f-4b07-a250-126710a3cfea",
-          "name": "Little Gem",
-          "plantId": "404241a3-8a2f-47ac-8447-a0759794277d"
+          "name": "Magnolia",
+          "plantId": "ae5e8093-0509-40e0-9bce-ef32540dc971"
+        },
+        {
+          "id": "67749644-b9ca-4871-9e28-bb0d2d90c48b",
+          "name": "Indian lilac (neem) (Azadirachta indica)",
+          "plantId": "56e0c7e5-ba06-46cf-a143-014e4ad9a470"
         }
       ]
     }
@@ -5395,6 +5400,13 @@
       "plants": [
         {
           "id": "c6124fe0-0b7f-4b07-a250-126710a3cfea",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "67749644-b9ca-4871-9e28-bb0d2d90c48b",
           "x": 5,
           "y": 5,
           "width": 16,

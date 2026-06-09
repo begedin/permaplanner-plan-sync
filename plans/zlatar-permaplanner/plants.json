@@ -545,6 +545,16 @@
       "id": "404241a3-8a2f-47ac-8447-a0759794277d",
       "speciesId": "magnolia",
       "cultivarId": "little_gem"
+    },
+    {
+      "id": "ae5e8093-0509-40e0-9bce-ef32540dc971",
+      "speciesId": "magnolia",
+      "cultivarId": null
+    },
+    {
+      "id": "56e0c7e5-ba06-46cf-a143-014e4ad9a470",
+      "speciesId": "indian_lilac",
+      "cultivarId": null
     }
   ]
 }
