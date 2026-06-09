@@ -555,6 +555,16 @@
       "id": "56e0c7e5-ba06-46cf-a143-014e4ad9a470",
       "speciesId": "indian_lilac",
       "cultivarId": null
+    },
+    {
+      "id": "f59039d4-1efd-4518-b02d-e3ca78cbc5fe",
+      "speciesId": "fir",
+      "cultivarId": "nordmann"
+    },
+    {
+      "id": "8083c9ab-6123-473a-ae35-55fb8098ae55",
+      "speciesId": "verbena_bonariensis",
+      "cultivarId": null
     }
   ]
 }

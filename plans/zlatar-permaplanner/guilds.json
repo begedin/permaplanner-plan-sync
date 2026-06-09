@@ -1517,6 +1517,26 @@
           "plantId": "56e0c7e5-ba06-46cf-a143-014e4ad9a470"
         }
       ]
+    },
+    {
+      "id": "77a6f91d-1024-40c7-8e8d-0f5e6c884d15",
+      "name": "New guild",
+      "mulchLevel": 1,
+      "plants": [
+        {
+          "id": "489e3a1c-e61b-4a90-acf3-6693f0301702",
+          "name": "Nordmann fir (Abies nordmanniana)",
+          "plantId": "f59039d4-1efd-4518-b02d-e3ca78cbc5fe",
+          "growthPhase": "young",
+          "vigor": 3
+        },
+        {
+          "id": "d6a68260-f860-4bd0-84e7-e3b58a1dad0e",
+          "name": "Purpletop vervain (Verbena bonariensis)",
+          "plantId": "8083c9ab-6123-473a-ae35-55fb8098ae55",
+          "growthPhase": "sown"
+        }
+      ]
     }
   ],
   "guildLocations": [
@@ -5456,6 +5476,26 @@
         },
         {
           "id": "67749644-b9ca-4871-9e28-bb0d2d90c48b",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "id": "77a6f91d-1024-40c7-8e8d-0f5e6c884d15",
+      "path": [],
+      "plants": [
+        {
+          "id": "489e3a1c-e61b-4a90-acf3-6693f0301702",
+          "x": 5,
+          "y": 5,
+          "width": 16,
+          "height": 16
+        },
+        {
+          "id": "d6a68260-f860-4bd0-84e7-e3b58a1dad0e",
           "x": 5,
           "y": 5,
           "width": 16,
