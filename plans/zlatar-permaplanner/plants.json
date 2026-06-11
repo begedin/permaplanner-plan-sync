@@ -575,6 +575,11 @@
       "id": "db45ab08-9dfb-4065-af71-5ec86821ad85",
       "speciesId": "night_scented_stock",
       "cultivarId": "common"
+    },
+    {
+      "id": "833c6bfd-36fd-4057-9ecb-45145627492e",
+      "speciesId": "comfrey",
+      "cultivarId": "common"
     }
   ]
 }
